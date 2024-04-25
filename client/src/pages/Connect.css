@@ -1,0 +1,21 @@
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+   }
+   
+   .mt-5 {
+    margin-top: 3rem !important;
+   }
+   
+   .mt-4 {
+    margin-top: 1.5rem !important;
+   }
+   
+   .text-center {
+    text-align: center !important;
+   }
+   
+   .btn-block {
+    display: block;
+    width: 100%;
+   }
