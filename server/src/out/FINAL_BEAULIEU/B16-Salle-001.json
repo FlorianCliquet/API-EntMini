@@ -1,0 +1,3368 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/28/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/04/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/25/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/22/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "12/20/2023"
+    },
+    "MECA-S3-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/13/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "12/04/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "04/26/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "04/26/2024"
+    },
+    "TP Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/27/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/10/2024"
+    },
+    "MECA-S3-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/15/2023"
+    },
+    "TP_méca_Géné"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "09/01/2023"
+    },
+    "Réunion de Rentrée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/04/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/12/2023"
+    },
+    "TD_Outils_techno gpe A & gpe B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/14/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/25/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/11/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/04/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/06/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/09/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/16/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/19/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/20/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/21/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/28/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/09/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/21/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/21/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/12/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/19/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/29/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/25/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/25/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/26/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/05/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/21/2023"
+    },
+    "TP CAO (Gr SPI1)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "TP CAO (Gr SPI1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/23/2024"
+    },
+    "TP Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/19/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/26/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/09/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "18:45",
+      "date": "10/02/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/19/2023"
+    },
+    "TD_Outils_techno gpe A & gpe B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/13/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/26/2023"
+    },
+    "TD_Outils_techno gpe A & gpe B"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/22/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/16/2024"
+    },
+    "TP Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "06/26/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "06/26/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/17/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/24/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/04/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/19/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/14/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/21/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/09/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/07/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/26/2023"
+    },
+    "CM / TD Mécanique Générale"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/11/2023"
+    },
+    "TP Ingénierie mécanique PLM GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/22/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/17/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/05/2023"
+    },
+    "CM Plates-Formes Collaborative"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/22/2024"
+    },
+    "CM/TD Mécanique pour le Spatial"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/09/2024"
+    },
+    "MECA-S3-TP gr1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/09/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/26/2024"
+    },
+    "TP Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/14/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/19/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/20/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/16/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/22/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/29/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/05/2023"
+    },
+    "TP CAO (Gr SPI1)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/17/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/11/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/10/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/25/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/25/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/26/2024"
+    },
+    {
+      "hours": "14:15",
+      "date": "04/26/2024"
+    },
+    "TP Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/03/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/13/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/03/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/23/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/18/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/20/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/18/2024"
+    },
+    "MECA-S3-TP gr4"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/30/2023"
+    },
+    "TP Programmation GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/20/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/04/2023"
+    },
+    "CM Programmation"
+  ],
+  [
+    {
+      "hours": "17:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "10/03/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "10/17/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/07/2023"
+    },
+    "CM/TD PPM/M (B16-001&002Salle CAO)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/04/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/15/2024"
+    },
+    "MECA-S3-TP gr2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/20/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/28/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/13/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/01/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/18/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/17/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/14/2023"
+    },
+    "TP_méca_Géné"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/07/2023"
+    },
+    "CC UE02 Méca 4 : Mécanique générale"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/12/2023"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/29/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/04/2023"
+    },
+    "CM Programmation"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/27/2024"
+    },
+    "TP CFAO/Métrologie gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/31/2024"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/26/2023"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/23/2024"
+    },
+    "TP Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/27/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/16/2024"
+    },
+    "TP Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/06/2023"
+    },
+    "Réunion de rentrée L3 STS"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/03/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/17/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "10/18/2023"
+    },
+    "Parrainage SANDEN"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/19/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/09/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/30/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/20/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/11/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/07/2023"
+    },
+    "L3 CM/TD Sci_des _materiaux FC"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/06/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/06/2024"
+    },
+    "MFM-S8-TP1 et TP2"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/13/2023"
+    },
+    "TP Ingénierie mécanique GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/28/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/29/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "01/17/2024"
+    },
+    "MECA-S3-TP gr2"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/01/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/21/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "04/03/2024"
+    },
+    "TP T.E.I - Spé"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/25/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/23/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/11/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "10/17/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/15/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "04/08/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/04/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/25/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/11/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/12/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/29/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/19/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/18/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/22/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/05/2024"
+    },
+    "TP Projets Gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/21/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "05/21/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/18/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/10/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/15/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/02/2024"
+    },
+    "TP Outils Techno.2 gr A et B"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/16/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/15/2024"
+    },
+    "TD Outils techno.2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/12/2024"
+    },
+    "TP Outils Techno.2 gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/24/2023"
+    },
+    "TP Ingénierie mécanique GrB"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/09/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/29/2024"
+    },
+    "TD Outils techno.2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/09/2024"
+    },
+    "MECA-S3-TP gr2"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/12/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/05/2024"
+    },
+    "TD Outils techno.2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/09/2024"
+    },
+    "TP - MSI2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "01/18/2024"
+    },
+    "MECA-S3-TP gr1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/16/2024"
+    },
+    "TP - MSI2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/08/2024"
+    },
+    "MECA-S3-TP gr4"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/16/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/24/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/24/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/12/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/09/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/09/2024"
+    },
+    "TP Méca des Milieux Continus (EB) gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/30/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "02/08/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "05/13/2024"
+    },
+    "MFM-S8-TP1 et TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "06/06/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "06/06/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/25/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/09/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/28/2023"
+    },
+    "TP Programmation GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/21/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/31/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/22/2023"
+    },
+    "TP Gestion de production GrB (salle B16 001-002)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/08/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/06/2023"
+    },
+    "TP Programmation GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/08/2023"
+    },
+    "TP Programmation GrA"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "12/21/2023"
+    },
+    "MECA-S3-TP gr4"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/24/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/10/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/14/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/07/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/11/2024"
+    },
+    "MECA-S3-TP gr1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/18/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/10/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/20/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/13/2023"
+    },
+    "AUTOFORMATION \"Rechercher et évaluer l'information\""
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/11/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/01/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/22/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/24/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/26/2023"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/21/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/05/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/12/2023"
+    },
+    "TP Ingénierie mécanique GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/04/2023"
+    },
+    "CM Programmation"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/04/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "01/11/2024"
+    },
+    "MECA-S3-TP gr2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/23/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/08/2024"
+    },
+    "MECA-S3-TP gr1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/15/2023"
+    },
+    "TP Gestion de production GrA"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "09/01/2023"
+    },
+    "Réunion rentrée Master SPIA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/23/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/23/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/15/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/15/2023"
+    },
+    "TP Programmation GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/20/2023"
+    },
+    "TP Programmation GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/10/2023"
+    },
+    "TP Programmation GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/11/2023"
+    },
+    "CM Outils Technologique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/14/2024"
+    },
+    "TP Imagerie Quantitative IMAQ gr A et B"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/12/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/18/2024"
+    },
+    "CM/TD Machine learning"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "09:45",
+      "date": "03/20/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/22/2024"
+    },
+    "CM/TD Mécanique pour le Spatial"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/30/2024"
+    },
+    "TP - Technologie 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/03/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "10/20/2023"
+    },
+    "TP Programmation GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/26/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/26/2024"
+    },
+    "TP Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/10/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/16/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/13/2024"
+    },
+    "TP - Technologie 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/06/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/23/2024"
+    },
+    "TP - Technologie 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/08/2023"
+    },
+    "TP Ingénierie mécanique PLM GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/23/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/22/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/26/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/10/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/02/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "12/18/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/30/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/24/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/24/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/15/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/12/2024"
+    },
+    "MECA-S3-TP gr4"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/05/2023"
+    },
+    "CM Plates-Formes Collaborative"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/18/2023"
+    },
+    "TP Projet GrA et B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/13/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/20/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/23/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/22/2023"
+    },
+    "CC Gestion de Production"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/24/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/24/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/19/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/15/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/02/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "12/11/2023"
+    },
+    "TP Ingénierie mécanique PLM GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/22/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/10/2024"
+    },
+    "CM/TD Robotique"
+  ],
+  [
+    {
+      "hours": "12:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    "Présentation Alternance"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/18/2023"
+    },
+    "AUTOFORMATION \"mettre en place une stratégie de veille\""
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/06/2024"
+    },
+    "TP - Technologie 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/25/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/16/2024"
+    },
+    "MECA-S3-TP gr3"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "04/30/2024"
+    },
+    "TP Robotique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/20/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/01/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "12/07/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/27/2023"
+    },
+    "TP outils_techno"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/09/2023"
+    },
+    "TP Modélisation numérique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "TP CAO (Gr SPI1)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/02/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/05/2023"
+    },
+    "TP_méca_Géné"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/01/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/31/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/16/2023"
+    },
+    "TP Gestion de production GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/21/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/05/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/07/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/14/2024"
+    },
+    "CM/TD Ingénierie mécanique"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/24/2023"
+    },
+    "TP Ingénierie mécanique GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/24/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/24/2024"
+    },
+    "CM/TD Asservissement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/16/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/15/2023"
+    },
+    "TP_méca_Géné"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/29/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    "CM/TD Dynamique Choc Impact"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/22/2024"
+    },
+    "TP Outils Techno.2 gr A et B"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/19/2023"
+    },
+    "TP Machine learning"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/14/2023"
+    },
+    "TP Ingénierie mécanique GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/25/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/14/2023"
+    },
+    "TP Matériaux avancés GrA & GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "06/12/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "06/12/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "06/19/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "06/19/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/29/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "05/29/2024"
+    },
+    "ConcepP-S6-TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/16/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/19/2023"
+    },
+    "TP Ingénierie mécanique GrB"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/06/2023"
+    },
+    "TP Plates-Formes Collaborative GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/13/2024"
+    },
+    "TP Asservissement CFAO (NV) gr A et B ENS"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/12/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/19/2024"
+    },
+    "TP T.E.I - Spé"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/22/2023"
+    },
+    "MECA-S3-TP gr3"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/15/2024"
+    },
+    "TP - Bureautique pour la science"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/12/2024"
+    },
+    "TP T.E.I - Spé"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/02/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/19/2024"
+    },
+    "CM/TD Outils numériques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/06/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/25/2023"
+    },
+    "TP/cao_cfao - (NV)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/20/2023"
+    },
+    "TP Plates-Formes Collaborative GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "12/08/2023"
+    },
+    "TP Ingénierie mécanique PLM GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/19/2024"
+    },
+    "TP Robotique"
+  ]
+]

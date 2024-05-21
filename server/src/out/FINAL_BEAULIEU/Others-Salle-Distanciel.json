@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "hours": "08:45",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "03/04/2024"
+    },
+    "Intro à la science Politique MZ"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/05/2024"
+    },
+    "Droit de l'environnement"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/05/2024"
+    },
+    "Droit de la RSE"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/04/2024"
+    },
+    "Théorie politique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "19:45",
+      "date": "03/05/2024"
+    },
+    "Métier Politique et Communication"
+  ]
+]

@@ -1,0 +1,486 @@
+[
+  [
+    {
+      "hours": "14:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/06/2023"
+    },
+    "Soutenances Stages"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/25/2023"
+    },
+    "Réunion projet de thèse"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/04/2023"
+    },
+    "Soutenances de stage"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/10/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "05/10/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "05/17/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/19/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "05/03/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/15/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/16/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/23/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/05/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/22/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/29/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "14:30",
+      "date": "01/12/2024"
+    },
+    "Réunion sur les thèses et galette"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/07/2023"
+    },
+    "Soutenances Stages"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/05/2023"
+    },
+    "Soutenances de stage"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "09/04/2023"
+    },
+    "Rentrée M2 Cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "19:00",
+      "date": "01/09/2024"
+    },
+    "Séminaire M2 Recherche"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "09/08/2023"
+    },
+    "Soutenances Stages"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/06/2023"
+    },
+    "Soutenances de stage"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/15/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/08/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/01/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/02/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/09/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "19:00",
+      "date": "01/11/2024"
+    },
+    "Séminaire M2 Recherche"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/19/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/22/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/05/2023"
+    },
+    "Soutenances de stage"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "14:00",
+      "date": "01/08/2024"
+    },
+    "Séminaire M2 Recherche"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/26/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/13/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "09/15/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "09/29/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "09/22/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/06/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/24/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/20/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/10/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/17/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/27/2023"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "09/01/2023"
+    },
+    "Rentrée M2 Recherche"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/08/2023"
+    },
+    "Soutenances Stages"
+  ]
+]

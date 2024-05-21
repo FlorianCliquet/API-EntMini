@@ -1,0 +1,3291 @@
+[
+  [
+    {
+      "hours": "14:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/08/2023"
+    },
+    "AGR - Sols plantes agrosystèmes - SORTIE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "01/15/2024"
+    },
+    "DMS-DMS TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/12/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/02/2023"
+    },
+    "Soutenance Promo 22-23"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "01/15/2024"
+    },
+    "EVP - Point stage"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/24/2023"
+    },
+    "EVP - Filières - CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/16/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/16/2023"
+    },
+    "ANA - Bases de données - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/10/2023"
+    },
+    "EVP - Filières - CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/05/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/07/2024"
+    },
+    "GEN CM"
+  ],
+  [
+    {
+      "hours": "12:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/22/2023"
+    },
+    "AGR - Science du sol - REMISE CR"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/03/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/21/2023"
+    },
+    "ECF Ecologie fonctionnelle - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/13/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/23/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/18/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "12/18/2023"
+    },
+    "DMS - Planification expé CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/23/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/07/2023"
+    },
+    "AGR - Science du sol - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/10/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/22/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/13/2023"
+    },
+    "DIV - Diversité cultivée - Travail perso"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/23/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/14/2024"
+    },
+    "GEN CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/22/2023"
+    },
+    "DIV - Diversité cultivée - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "09/22/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/06/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/27/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/30/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/16/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/07/2023"
+    },
+    "AGR - Ecophysiologie - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/12/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/23/2023"
+    },
+    "ANA - Bases de données - TD"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/09/2023"
+    },
+    "IBI - Bioagresseurs - TP gr2"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/16/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "UC2.1 Observations et métrologie"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "02/23/2024"
+    },
+    "MSB CC ORAL"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/07/2023"
+    },
+    "CC ECRIT - IBI - Bioagresseurs"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/08/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/09/2023"
+    },
+    "EVP - Filières - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/06/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/05/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/11/2023"
+    },
+    "AGR - Agronomie - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "09/11/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/16/2023"
+    },
+    "PHY Physiologie - TD"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "09/29/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/13/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "11/07/2023"
+    },
+    "EVP - Filières - CM"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/19/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "10/06/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/02/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "03/04/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/06/2023"
+    },
+    "EPB CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/24/2023"
+    },
+    "ANA - Statistiques - Travail perso"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/06/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/18/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "09/08/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/27/2023"
+    },
+    "ANA - Bases de données - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/17/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/11/2023"
+    },
+    "CC ECRIT - IBI - Interactions favorables"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "09/15/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/13/2023"
+    },
+    "CC - ANA - Statistiques"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/28/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "09/29/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/19/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/22/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "10/09/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "03/18/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/16/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/16/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/07/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "03/04/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/20/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "03/27/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/10/2024"
+    },
+    "DMS-DMS TD gr1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/06/2023"
+    },
+    "AGR - Ecophysiologie - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/11/2023"
+    },
+    "ECF Ecologie fonctionnelle - CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/20/2023"
+    },
+    "EVP - Point stage"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/22/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/18/2023"
+    },
+    "AGR - Agronomie - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/08/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "09/18/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/13/2023"
+    },
+    "AGR - Science du sol - CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/13/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "09/25/2023"
+    },
+    "ANA - Statistiques - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/11/2023"
+    },
+    "CC ORAL - EVP- Filières"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/14/2024"
+    },
+    "GEN CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/14/2024"
+    },
+    "GEN TD en autonomie"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/04/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/11/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/07/2024"
+    },
+    "MSB CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/09/2023"
+    },
+    "AGR - Science du sol - CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/07/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/07/2023"
+    },
+    "IBI - Bioagresseurs - CM/TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/15/2023"
+    },
+    "EVP - Filières - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "09/25/2023"
+    },
+    "CC ORAL - ECF Ecologie fonctionnelle"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/14/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/06/2023"
+    },
+    "AGR - Ecophysiologie - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "09/11/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/14/2023"
+    },
+    "CC - DIV - Diversité cultivée"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/26/2023"
+    },
+    "IBI - Bioagresseurs - TD autonomie"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "01/10/2024"
+    },
+    "DMS-DMS TD gr2"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "03/14/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/22/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "12/08/2023"
+    },
+    "AGR - Sols plantes agrosystèmes - CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/07/2024"
+    },
+    "PHM visioconférence"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "09/14/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/12/2024"
+    },
+    "DMS-PEX CM/TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/05/2023"
+    },
+    "EVP - Filières - CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/13/2023"
+    },
+    "AGR - Agronomie - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/23/2023"
+    },
+    "EVP - Filières - Travail perso"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "11/06/2023"
+    },
+    "AGR - Science du sol - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/20/2023"
+    },
+    "ANA - Statistiques - Permanence"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/26/2024"
+    },
+    "DMS-DMS TD gr1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/26/2023"
+    },
+    "ANA - Statistiques - Permanence"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/11/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/06/2024"
+    },
+    "DMS-DMS TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/29/2023"
+    },
+    "ANA - Bases de données - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "01/22/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/27/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/10/2023"
+    },
+    "AGR - Science du sol - TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "04/03/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/13/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/09/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "12/08/2023"
+    },
+    "AGR - Sols plantes agrosystèmes - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/05/2024"
+    },
+    "BBM CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/21/2024"
+    },
+    "GEN TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/21/2023"
+    },
+    "ECF Ecologie fonctionnelle - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/15/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/19/2024"
+    },
+    "GEN CC TP noté"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/05/2023"
+    },
+    "Travail perso prépa CC"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/22/2023"
+    },
+    "AGR - Science du sol - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/16/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/22/2024"
+    },
+    "DMS-PEX CC"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/11/2024"
+    },
+    "ADM (groupe 5) CC ECRIT"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/28/2023"
+    },
+    "AGR - Ecophysiologie - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "04/11/2024"
+    },
+    "DMS-DMS CC Retour sur les rapports"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/22/2023"
+    },
+    "EPB CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/08/2023"
+    },
+    "AGR - Sols plantes agrosystèmes - SORTIE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "04/03/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/24/2023"
+    },
+    "EVP - Filières - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/31/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "01/12/2024"
+    },
+    "CC - AGR - Sols plantes agrosystèmes"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/16/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "11/21/2023"
+    },
+    "PHY Physiologie - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/26/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/27/2023"
+    },
+    "HBD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "01/08/2024"
+    },
+    "DMS-DMS CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/07/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/07/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "03/07/2024"
+    },
+    "DMS-PEX CC"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/16/2023"
+    },
+    "EVP - Filières - Travail perso"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "03/21/2024"
+    },
+    "JOURNEE METIERS"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/14/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/14/2023"
+    },
+    "AGR - Science du sol - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/17/2023"
+    },
+    "DIV - Diversité cultivée - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/19/2023"
+    },
+    "ANA - Statistiques - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/15/2023"
+    },
+    "CDP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/07/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/18/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/06/2023"
+    },
+    "EVP - Filières - Travail perso"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/16/2023"
+    },
+    "CC - ANA - Statistiques"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/05/2024"
+    },
+    "SOCA NU CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/30/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/17/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/13/2023"
+    },
+    "AGR - Science du sol - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/05/2023"
+    },
+    "UE2 Usage div cultivée/GSC - Vincent Poupard"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "02/07/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/19/2023"
+    },
+    "AGR - Agronomie - TD"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/19/2023"
+    },
+    "AGR - Agronomie - TD autonomie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/04/2023"
+    },
+    "AGR - Ecophysiologie - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "01/31/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "03/19/2024"
+    },
+    "GEN CC ECRIT"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/24/2023"
+    },
+    "EPB CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "01/22/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/12/2023"
+    },
+    "AGR - Agronomie - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/10/2023"
+    },
+    "EVP - Filières - Travail perso"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/31/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/13/2023"
+    },
+    "ANA - Bases de données - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "02/14/2024"
+    },
+    "NEE TD/TP - Laboratoire de Biochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/11/2023"
+    },
+    "ANA - Statistiques - Travail perso"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "01/10/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/15/2023"
+    },
+    "AGR - Agronomie - TD"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "09/12/2023"
+    },
+    "ECF Ecologie fonctionnelle - autonomie - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "02/09/2024"
+    },
+    "MSB TD en autonomie"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/05/2024"
+    },
+    "DMS-PEX CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "01/30/2024"
+    },
+    "MAP CM"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "02/16/2024"
+    },
+    "MSB TD en autonomie"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/06/2023"
+    },
+    "DIV - Diversité cultivée - CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "04/11/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "02/07/2024"
+    },
+    "PHM  CM/TD"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/12/2023"
+    },
+    "UC4.6 Recherche et synthèse biblio"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/22/2024"
+    },
+    "DMS-DMS TD gr1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/30/2023"
+    },
+    "AGR - Ecophysiologie - CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/09/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "12/18/2023"
+    },
+    "EVP - Présentation M2 - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "02/21/2024"
+    },
+    "MSB CC ORAL"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "04/05/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/23/2023"
+    },
+    "AGR - Ecophysiologie - CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/14/2023"
+    },
+    "EPB CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "09/12/2023"
+    },
+    "ECF Ecologie fonctionnelle - CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "01/31/2024"
+    },
+    "DMS-DMS TD en autonomie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "10/05/2023"
+    },
+    "PHY Physiologie - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/13/2023"
+    },
+    "AGR - Science du sol - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/21/2023"
+    },
+    "DIV - Diversité cultivée - CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/06/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/06/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/24/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/06/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "01/17/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/10/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "UC4.6 Recherche et synthèse biblio"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/13/2024"
+    },
+    "GEN CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/09/2024"
+    },
+    "GEN CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/12/2024"
+    },
+    "GEN CM rendu rapports"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "10/12/2023"
+    },
+    "DIV - Diversité cultivée - Conférence"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "10/04/2023"
+    },
+    "Soutenance Promo 22-23"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/17/2024"
+    },
+    "DMS-DMS TD gr2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "01/08/2024"
+    },
+    "DMS-DMS CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "09/26/2023"
+    },
+    "ECF Ecologie fonctionnelle - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/29/2023"
+    },
+    "IBI - Interactions favorables - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/18/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/06/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "03/06/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "03/25/2024"
+    },
+    "DMS-DMS TD en autonomie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "03/13/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/04/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/03/2023"
+    },
+    "Soutenance Promo 22-23"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "04/12/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/08/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/27/2023"
+    },
+    "IBI - Interactions favorables - CM/TD VISIO"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/26/2023"
+    },
+    "AGR - Science du sol - CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/20/2023"
+    },
+    "EPB CM/TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/29/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/19/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/09/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/14/2023"
+    },
+    "HBD"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/09/2024"
+    },
+    "MAP CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/29/2024"
+    },
+    "DMS-PEX CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "10/18/2023"
+    },
+    "ANA - Statistiques - Permanence"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/20/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/06/2023"
+    },
+    "ANA - Bases de données - CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/18/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/07/2023"
+    },
+    "HBD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/20/2024"
+    },
+    "DMS-DMS TD en autonomie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/20/2024"
+    },
+    "MSB TD en autonomie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/18/2023"
+    },
+    "CC ORAL - IBI - Bioagresseurs"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/15/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/26/2024"
+    },
+    "DMS-DMS TD gr2"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/12/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/15/2024"
+    },
+    "DMS-PEX CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/22/2024"
+    },
+    "DMS-PEX CM/TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/20/2023"
+    },
+    "EVP - Filières - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "10/26/2023"
+    },
+    "AGR - Sols plantes agrosystèmes - CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/06/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "03/06/2024"
+    },
+    "DMS-DMS TD en autonomie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/14/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/06/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/10/2023"
+    },
+    "IBI - Interactions favorables - CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/05/2024"
+    },
+    "BBA CC ORAL"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/15/2024"
+    },
+    "MSB TD Tutorat"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "03/11/2024"
+    },
+    "DMS-DMS CM"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/25/2024"
+    },
+    "DMS-DMS CC Rendu rapports"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "03/12/2024"
+    },
+    "ENZ TP - STLO"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/12/2024"
+    },
+    "MSB TD en autonomie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "01/24/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/03/2023"
+    },
+    "Soutenance Promo 22-23"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "04/08/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/20/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/18/2023"
+    },
+    "AGR - Agronomie - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "02/05/2024"
+    },
+    "MSB CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "10/06/2023"
+    },
+    "MEPI CM/TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/02/2023"
+    },
+    "Soutenance Promo 22-23"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "12/12/2023"
+    },
+    "AGR - Agronomie - CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/16/2023"
+    },
+    "UC2.1 Observations et métrologie"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "10/09/2023"
+    },
+    "IBI - Bioagresseurs - TP gr1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/05/2024"
+    },
+    "BBA CC ORAL"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/14/2023"
+    },
+    "AGR - Ecophysiologie - TD"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "15:45",
+      "date": "12/19/2023"
+    },
+    "DMS - Planification expé CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "03/14/2024"
+    },
+    "ADM (groupe 5) CM/TD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/20/2024"
+    },
+    "MSB Séquence réflexive"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/09/2023"
+    },
+    "DIV - Diversité cultivée - CM"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "02/01/2024"
+    },
+    "DMS-PEX VISITE"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/08/2024"
+    },
+    "Séminaire Systèmes Cult & Alternatives"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/22/2024"
+    },
+    "UC2.5 Applications des outils de stat et de gestion des données (SGBD\\, SIG..)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "03/12/2024"
+    },
+    "ENZ TP - STLO"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/07/2023"
+    },
+    "AGR - Ecophysiologie - REMISE CR"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "03/22/2024"
+    },
+    "EPC CM/TD"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/19/2023"
+    },
+    "CC ORAL - AGR - Agronomie"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/21/2023"
+    },
+    "ANA - Bases de données - TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "09/28/2023"
+    },
+    "IBI - Bioagresseurs - TD autonomie"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/21/2023"
+    },
+    "IBI - Interactions favorables - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/13/2023"
+    },
+    "EVP - Point stage"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "15:45",
+      "date": "02/12/2024"
+    },
+    "BBA CC ECRIT"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/17/2023"
+    },
+    "IBI - Interactions favorables - CM/TD"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "10:15",
+      "date": "02/08/2024"
+    },
+    "MSB CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/04/2023"
+    },
+    "CC ORAL - ANA - Statistiques"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "12/19/2023"
+    },
+    "EVP - Filières - TD"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/18/2023"
+    },
+    "ECF Ecologie fonctionnelle - TD"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "01/12/2024"
+    },
+    "BBA CM/TD"
+  ],
+  [
+    {
+      "hours": "17:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/01/2023"
+    },
+    "ANA - Bases de données - REMISE CR"
+  ]
+]

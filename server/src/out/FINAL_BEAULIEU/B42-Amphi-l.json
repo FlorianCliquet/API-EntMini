@@ -1,0 +1,3280 @@
+[
+  [
+    {
+      "hours": "17:30",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/25/2023"
+    },
+    "Réunion Informations Contrats Pros"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/27/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/27/2024"
+    },
+    "MATH-S2-CC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/13/2023"
+    },
+    "CM BIF"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "10:45",
+      "date": "10/02/2023"
+    },
+    "RENTREE ESIR 3 SI"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/04/2023"
+    },
+    "Réunion de rentrée M1 MEEF tous parcours"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "10:45",
+      "date": "12/01/2023"
+    },
+    "CM PAB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "ChSolCin-S2 CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/30/2024"
+    },
+    "MGT-S8 Finance-S8-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/27/2023"
+    },
+    "COSO-S7-CC (hors maquette)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "01/23/2024"
+    },
+    "COM-S4-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "03/26/2024"
+    },
+    "COM-S4-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/09/2023"
+    },
+    "MATHS-S7-CM C.GUEGUEN"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/20/2023"
+    },
+    "CM BIF"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/08/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/06/2024"
+    },
+    "TS-S6 CM partie TIS/INFO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/10/2023"
+    },
+    "MANREG1-S9-CM F.EON"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/20/2023"
+    },
+    "MATHS-S7-CM C.GUEGUEN"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/09/2024"
+    },
+    "MGT-S8 Finance-S8-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/28/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/21/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/19/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/23/2024"
+    },
+    "DE-S8 CC"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "05/28/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "05/28/2024"
+    },
+    "MATHS-S2 CC hors maquette"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "MGT-S9-GRH TD A (MAT-IOT)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/12/2023"
+    },
+    "MATH-S1-TD GR A et TD GR B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/12/2023"
+    },
+    "ELECn-S1-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/22/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/14/2023"
+    },
+    "MATH-S3-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/02/2023"
+    },
+    "ELECn-S1-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/13/2024"
+    },
+    "MGT-S6-CM (marketing de l'innovation)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/29/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/06/2024"
+    },
+    "MGT-S6-CM (marketing de l'innovation)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/27/2023"
+    },
+    "ELEC-S5-CC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/13/2023"
+    },
+    "CM SIR/PAR"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/06/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/17/2023"
+    },
+    "CM MSEC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/03/2023"
+    },
+    "MGT-S9-GRH TD A (MAT-IOT)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "CM DPM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/25/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/29/2024"
+    },
+    "AA SI/IN CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/18/2023"
+    },
+    "CC3-BIF - M1 PNB + GHBV"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/15/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/01/2023"
+    },
+    "CM PAB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/03/2024"
+    },
+    "CM-S8 TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/23/2024"
+    },
+    "UE 3 NBC CM (Paul SAULEAU) - Sommeil /Parkinson"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "MMR-S9-CM Y.Hadjadj-Aoul"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/11/2023"
+    },
+    "ELECn-S3-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/11/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/22/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/11/2023"
+    },
+    "CM FECO/EEC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/18/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/12/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/19/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/06/2023"
+    },
+    "CM DPM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "CM FECO/EEC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/16/2024"
+    },
+    "PO-S6 CC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/22/2024"
+    },
+    "INORGA-S4-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/17/2024"
+    },
+    "MATHS-S4-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/17/2023"
+    },
+    "CM MSEC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/23/2024"
+    },
+    "UE 3 NBC CM (Paul SAULEAU) - Sommeil /Parkinson"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/13/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/06/2023"
+    },
+    "CM FECO/EEC"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/22/2023"
+    },
+    "MATH-S1-TD GR A"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/06/2024"
+    },
+    "TS-S6 CM partie TIS/INFO"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/26/2023"
+    },
+    "ESI-S9-CM AG.BERGE"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/13/2024"
+    },
+    "CC - GeG - M2 PNB + GHBV (Tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/02/2023"
+    },
+    "Rencontre ESIR 3 info avec marraine promotion ATOS"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/19/2024"
+    },
+    "CM-S8 CC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/20/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/13/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "12:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "21:15",
+      "date": "11/29/2023"
+    },
+    "My alumni Day/IDESIR"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/07/2024"
+    },
+    "Réunion Informations Contrats Pros"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "14:15",
+      "date": "02/21/2024"
+    },
+    "AG pour les étudiants"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "02/16/2024"
+    },
+    "ANG-S9- Gr2 VN"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/25/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/10/2023"
+    },
+    "MANREG1-S9-CM F.EON"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/07/2023"
+    },
+    "BINP-S7 CM TIS / IN"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "02/05/2024"
+    },
+    "TD GR B COM-S2 CUPGE 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/11/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/26/2023"
+    },
+    "MATHS-S7-CM B.UGUEN"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/19/2023"
+    },
+    "MATH-S1-CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/18/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/28/2023"
+    },
+    "MATH-S1-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/24/2023"
+    },
+    "MGT-S9-GRH CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/04/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/07/2023"
+    },
+    "GMCAO-S9-CM P.HAIGRON"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/10/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "CC1-BIF - M1 PNB + GHBV"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/08/2023"
+    },
+    "PCOM TP M1 + M2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/05/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/14/2023"
+    },
+    "COM-S5-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/19/2023"
+    },
+    "ELHF-S9-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/14/2024"
+    },
+    "ChSolCin-S2 CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/19/2023"
+    },
+    "ELECa-S3-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/20/2023"
+    },
+    "BDD-S5-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/12/2023"
+    },
+    "ELECa-S3-CM"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/11/2023"
+    },
+    "Formations superficielles\\, Hydrosphère\\, Altération (FHA)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "CM OSE-2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/14/2023"
+    },
+    "BINP-S7 CM TIS / IN"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/21/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/10/2023"
+    },
+    "MANREG1-S9-CM F.EON"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/14/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/19/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/28/2023"
+    },
+    "CM ST1 module Minéraux et Roches"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/28/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/28/2024"
+    },
+    "Dépôt compte rendu TP"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/24/2023"
+    },
+    "MGT-S9-GRH TD A (MAT-IOT)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/25/2023"
+    },
+    "ELECn-S1-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/24/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/10/2024"
+    },
+    {
+      "hours": "19:00",
+      "date": "02/10/2024"
+    },
+    "Journée portes ouvertes ESIR"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/17/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/14/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/10/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/10/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/13/2023"
+    },
+    "MATHS 1-S5 INFO/TIS-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/12/2023"
+    },
+    "CM BIF"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/13/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/19/2024"
+    },
+    "PHYS-S2-TDB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/17/2023"
+    },
+    "LPWAN-S9-CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/17/2024"
+    },
+    "BDD-S6-CM"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "12/13/2023"
+    },
+    "MANREG1-S9-CC hors maquette"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/08/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/10/2024"
+    },
+    "MATH-S1-CC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/05/2023"
+    },
+    "MGT-S5-CM (introduction au management)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/24/2023"
+    },
+    "AC-S7 CC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/23/2023"
+    },
+    "Formations superficielles\\, Hydrosphère\\, Altération (FHA)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/10/2023"
+    },
+    "CM SIR/PAR"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/14/2024"
+    },
+    "IIA-S6-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/09/2024"
+    },
+    "CC2 - GEG - M1 BMC (Tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/17/2023"
+    },
+    "CM DPM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/27/2023"
+    },
+    "SPECTRO-S7-CC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/21/2024"
+    },
+    "CM FEV"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/06/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/29/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/19/2023"
+    },
+    "CM PROJET"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/16/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/13/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/14/2024"
+    },
+    "CM FEV"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/25/2024"
+    },
+    "CM FEV"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/21/2023"
+    },
+    "ASE--CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/23/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/22/2024"
+    },
+    "PHYS-S2-TDA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/18/2023"
+    },
+    "Projet industriel"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/13/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/11/2023"
+    },
+    "TD PROJET ED+ERPUR"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/08/2024"
+    },
+    "GEDI-CC-Géométrie diff"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/20/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/18/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/25/2023"
+    },
+    "PSTAT1-S5-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/25/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "SM-S5-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/08/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/29/2024"
+    },
+    "PO-S6 CC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/04/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/05/2024"
+    },
+    "MATHS-S4-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/15/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/02/2024"
+    },
+    "AA SI/IN CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/07/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/16/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/23/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/09/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/27/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/08/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/13/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/20/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/20/2023"
+    },
+    "SSD - CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/09/2024"
+    },
+    "MATHS-S7-TD S.CORRE"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/04/2023"
+    },
+    "CM EPG"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/04/2023"
+    },
+    "PESD-S9-CM L.Gourgand"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/04/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/02/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/15/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/18/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/11/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/25/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/04/2023"
+    },
+    "PCM-CM-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/11/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/23/2023"
+    },
+    "SSD - CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/18/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/19/2024"
+    },
+    "ANG-S5- CLES ESIR 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/25/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/20/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/24/2024"
+    },
+    "MATHS-S4-CC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "ADF-CM-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/25/2023"
+    },
+    "CM EPG"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/11/2023"
+    },
+    "TD PROJET ED+ERPUR"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/17/2024"
+    },
+    "DEE CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/13/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/03/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/27/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/12/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/20/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/09/2024"
+    },
+    "OLED-S9-épreuve de Substitution"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/27/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/23/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/13/2023"
+    },
+    "CM EPG"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    "ELECn-S1-CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/06/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/09/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/14/2023"
+    },
+    "ALGO-S1-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/05/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/09/2024"
+    },
+    "ProgM-S8 SI/IoT CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/12/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/06/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/14/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/11/2023"
+    },
+    "Réunion présentation UEs S2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/04/2023"
+    },
+    "CM EPG"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/19/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/11/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/03/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "ALGO-S1-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/08/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/04/2023"
+    },
+    "PESD-S9-CM L.Gourgand"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "ALGO-S1-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/05/2024"
+    },
+    "PHYS-S2-TDA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/03/2024"
+    },
+    "AA SI/IN CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/23/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/15/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/08/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/13/2023"
+    },
+    "CM FECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/16/2023"
+    },
+    "ALGO-S1-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/22/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/30/2023"
+    },
+    "CM ST1 module Géodynamique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/21/2023"
+    },
+    "INNOV-S7-TD INENT"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/29/2024"
+    },
+    "ANAV-CM-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/15/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/15/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/08/2023"
+    },
+    "FBEF"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/13/2024"
+    },
+    "CC - ECR - M1 GE (tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/19/2023"
+    },
+    "NAT1 CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/15/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/20/2023"
+    },
+    "TD PROJET"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/12/2023"
+    },
+    "CM FECO/EEC"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/06/2023"
+    },
+    "SYS-S5-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/13/2023"
+    },
+    "CM OSE-3"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "10/26/2023"
+    },
+    "ESI-S9-CM AG.BERGE"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/20/2024"
+    },
+    "présentation des spécialités"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/13/2024"
+    },
+    "CC écrit - GPN - M2 GHBV + PNB (Tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/29/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/15/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/29/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/05/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/15/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/22/2023"
+    },
+    "CM DPM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "01/30/2024"
+    },
+    "CM COM-S2 CUPGE 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/22/2024"
+    },
+    "AG-S6 CC"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/07/2023"
+    },
+    "ANG-S5-  TOIEC ESIR 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/15/2024"
+    },
+    "MATHS-S4-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/22/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "10:45",
+      "date": "10/27/2023"
+    },
+    "ELECn-S1-CC"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/20/2024"
+    },
+    "MC2-S8-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/18/2023"
+    },
+    "BINP-S7 CM TIS / IN"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/08/2024"
+    },
+    "MATHS-S4-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/08/2024"
+    },
+    "GEDI-CM-Géométrie diff."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/12/2024"
+    },
+    "PHYS-S2-TDB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/29/2023"
+    },
+    "EEC CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/29/2024"
+    },
+    "PHYS-S2-TDB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/12/2024"
+    },
+    "MATH-S2-CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "09/06/2023"
+    },
+    "ASA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/05/2023"
+    },
+    "IMED1-S9-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/26/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/19/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/12/2024"
+    },
+    "ECP CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "Droit de l'environnement Commun"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/05/2023"
+    },
+    "CM FECO/EEC"
+  ],
+  [
+    {
+      "hours": "07:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    "CRIST-DRX-S7 CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/23/2024"
+    },
+    "Maths2-S6 CC INFO"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/28/2023"
+    },
+    "THER-S3-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/26/2023"
+    },
+    "POL-S7-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "05/13/2024"
+    },
+    "ANG-S5-  TOIEC ESIR 1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "01/16/2024"
+    },
+    "THER-S3-CC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/02/2024"
+    },
+    "SNRF-S8-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/18/2023"
+    },
+    "MATH-S1-CM"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "05/27/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "05/27/2024"
+    },
+    "MATH-S2-CC Tiers Temps"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/17/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/08/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/20/2024"
+    },
+    "INORGA-S4-CM"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "18:30",
+      "date": "02/07/2024"
+    },
+    "Réunion Informations Contrats Pros"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/06/2023"
+    },
+    "ALGO-S3-CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/11/2024"
+    },
+    "MATHS-S4-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/25/2023"
+    },
+    "PCR CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/09/2023"
+    },
+    "MIoT-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "02/21/2024"
+    },
+    "CC1 - GEG - M1 BMC (Tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/06/2023"
+    },
+    "SYS-S5-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/25/2024"
+    },
+    "Conférence Matériaux - Hutchinson-L.Causeret"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/02/2024"
+    },
+    "AA SI/IN CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/06/2023"
+    },
+    "ALBA-CM-Algo. base"
+  ],
+  [
+    {
+      "hours": "07:30",
+      "date": "03/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/16/2024"
+    },
+    "TOEIC ESIR 2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/21/2023"
+    },
+    "ASE--CM"
+  ]
+]

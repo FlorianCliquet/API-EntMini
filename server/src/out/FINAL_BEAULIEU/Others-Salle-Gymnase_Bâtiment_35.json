@@ -1,0 +1,585 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/19/2023"
+    },
+    "CT1 structure des atomes (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/19/2023"
+    },
+    "CT 1 BDD"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/20/2023"
+    },
+    "CC3 LOG (1h + 1/3 tps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/19/2023"
+    },
+    "CCE2 MAT1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/18/2023"
+    },
+    "MAG CT (1h30 + 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/19/2023"
+    },
+    "PRG CT"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/18/2023"
+    },
+    "MOM-CCE2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "08:45",
+      "date": "12/20/2023"
+    },
+    "CCE3 CHIM1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/20/2023"
+    },
+    "CCE2 BMG Bio Mol"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/19/2023"
+    },
+    "CC - PAB - M1 GHBV"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/10/2024"
+    },
+    "CT IMZ/EIM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/15/2024"
+    },
+    "CCE3 BCO"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/18/2023"
+    },
+    "Option Santé Tronc Commun (LAS)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/18/2023"
+    },
+    "CT - UE03 Electromagnétisme et compléments mathématiques (Durée Hors TT)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "12/18/2023"
+    },
+    "CCE2 EC3-BIB1 Biologie B1 Biologie Végétale"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "12/19/2023"
+    },
+    "CC - UE3 CC2 Electrons\\, Phonons (Durée 2H\\, et 2H40 si étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/20/2023"
+    },
+    "EHS"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "01/11/2024"
+    },
+    "CCE2 CHR"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/18/2023"
+    },
+    "CT moléculaire 1 : chimie orga (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "01/10/2024"
+    },
+    "CT INFO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "01/10/2024"
+    },
+    "CCE3 GEP français et SI"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/22/2023"
+    },
+    "CC MAT"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/20/2023"
+    },
+    "CCE2 - OSE1 - M1 BEE + CAH"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/20/2023"
+    },
+    "CT Technique d'analyses\\, séparation\\, diffraction (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/19/2023"
+    },
+    "CT - Chimiométrie (UE6) (Durée Hors 1/3 temps\\, et 1H20 si 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/15/2024"
+    },
+    "EN2 CC"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "13:15",
+      "date": "12/19/2023"
+    },
+    "CC3 PRG (2 heures + tiers-temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/20/2023"
+    },
+    "CC - UE3 CC2 Optique\\, Lasers (Durée 1H30\\, et 2H si étudiant 1/3 Temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "01/09/2024"
+    },
+    "CT IVA +IVAsi"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "01/16/2024"
+    },
+    "CCE2 PSV"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/20/2023"
+    },
+    "CT 1 ALO"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/19/2023"
+    },
+    "CC IBT"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/18/2023"
+    },
+    "CT - RMN du Solide (UE5) (Durée Hors 1/3 temps\\, et 1H20 si 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "01/16/2024"
+    },
+    "CCE3 EG1+EG1 SI"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/19/2023"
+    },
+    "DOE CC"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/12/2024"
+    },
+    "CCE3 NDC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/17/2024"
+    },
+    "CCE3 ETG"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/20/2023"
+    },
+    "CC2 - MIN_TEDM (Durée 1H Hors TT\\, et 1H20 si 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/11/2024"
+    },
+    "CC5 VME"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "01/17/2024"
+    },
+    "CCE3 BMG Récapitulatif"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "01/11/2024"
+    },
+    "CT APO + APOsi"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/18/2023"
+    },
+    "CC2 - CTHEO1 Chimie Théorique (Durée 1H30\\, et 2H00 TT inclus)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/19/2023"
+    },
+    "ISA-CCE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/20/2023"
+    },
+    "CC - EPG - Ecologie pour le gestionnaire"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/20/2023"
+    },
+    "CT - UE04 Chimie organique (Durée Hors TT)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/19/2023"
+    },
+    "CT - UE01 Vibrations (Durée Hors TT) - mutualisé L3 SciPE PC + L3 PC"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/18/2023"
+    },
+    "CT 1 SCT"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/20/2023"
+    },
+    "CCE - MSEC"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/16/2024"
+    },
+    "CC final PRG1"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/19/2023"
+    },
+    "CT - PSY- Approches cognitives comp.  - M1 CAH"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "01/16/2024"
+    },
+    "OFI CC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/20/2023"
+    },
+    "CT1 CSE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/19/2023"
+    },
+    "CCE2 - Mineure Matériaux Intelligents"
+  ]
+]

@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "hours": "09:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "01/18/2024"
+    },
+    "CM PPN - Campus Villejean Santé"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/25/2024"
+    },
+    "CM PPN - Campus Villejean Santé"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "01/25/2024"
+    },
+    "CM PPN - Campus Villejean Santé"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    "AIM -conf O Lantz MAIT"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/18/2024"
+    },
+    "CM PPN - Campus Villejean Santé"
+  ]
+]

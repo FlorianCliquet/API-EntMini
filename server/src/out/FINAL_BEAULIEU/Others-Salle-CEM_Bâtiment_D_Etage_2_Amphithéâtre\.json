@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "hours": "16:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "11/17/2023"
+    },
+    "CM Dose absorbée :  et e- par ionométrie (Bellec)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "CM Principaux dosimètres en métrologie (Bellec)"
+  ],
+  [
+    {
+      "hours": "17:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/17/2023"
+    },
+    "CM Principaux dosimètres en métrologie (Bellec)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/24/2023"
+    },
+    "CM Dosim.: explorations diagnostiques en radiologie (X mou) (Delaby)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/17/2023"
+    },
+    "CM Dose absorbée :  et e- par détecteurs usuels (Delaby)"
+  ]
+]

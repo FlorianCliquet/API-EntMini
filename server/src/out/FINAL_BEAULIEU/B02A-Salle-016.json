@@ -1,0 +1,4875 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/23/2024"
+    },
+    "X-ray physics and synchrotron sources"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/13/2023"
+    },
+    "PPPE - Atelier 1 (Gr C1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/15/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/14/2023"
+    },
+    "PHY Physiologie - CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/21/2023"
+    },
+    "CM/TD Élastomère"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/22/2024"
+    },
+    "GEN TP G5* + DEMO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "01/25/2024"
+    },
+    "UE 7 : Nouvelles technologies en chimie fine et catalyse (Ve)"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "10/20/2023"
+    },
+    "CM/TD Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/29/2024"
+    },
+    "INORGA-S4-TD GR B"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/08/2024"
+    },
+    "CC Chimie (résa salle tiers temps)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/27/2023"
+    },
+    "TD OM3P (P2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/13/2024"
+    },
+    "CM/TD BCEL"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/19/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/08/2024"
+    },
+    "UE CM/TD Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/12/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/31/2024"
+    },
+    "CM/TD BCC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/09/2024"
+    },
+    "CM/TD RGP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/21/2024"
+    },
+    "CM DIG"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/11/2023"
+    },
+    "UE5- Introduction à la photonique et aux nanosciences (CM)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/05/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/12/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/21/2023"
+    },
+    "CM/TD Élastomère"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/18/2024"
+    },
+    "CM Chimie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/09/2024"
+    },
+    "TD SYS"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/26/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/03/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/01/2024"
+    },
+    "UE 6 : Catalyse Homogène Eco-Compatible (Je)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/13/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/25/2024"
+    },
+    "UE 6 : Catalyse Homogène Eco-Compatible (Je)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/29/2024"
+    },
+    "CM/TD Maintenance et qualité"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/01/2023"
+    },
+    "Réunion de rentrée L2 PC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/28/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/08/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/26/2023"
+    },
+    "Mineure Ingénierie Mécanique 2- CM/TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/20/2023"
+    },
+    "CM/TD Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/14/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/05/2024"
+    },
+    "CM BOT"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "10/13/2023"
+    },
+    "Module B - Séquence 1 : Continuité hydro-sédimentaire & restauration des cours d'eau"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/18/2024"
+    },
+    "UE5 : Matériaux Céramiques\\, stratégie de synthèses\\, et formulation"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "09/28/2023"
+    },
+    "UE5 : Matériaux Céramiques\\, stratégie de synthèses\\, et formulation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/15/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/25/2023"
+    },
+    "Chimie ATO cours-TD (gr8)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/19/2023"
+    },
+    "Chimie ATO cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "Accompagnement OUI SI - Tutorat"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/14/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/21/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/01/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/22/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/04/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/25/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/18/2024"
+    },
+    "UE3 CM/TD -  Microscopies\\, formation des images"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/29/2024"
+    },
+    "CM/TD Maintenance et qualité"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/22/2024"
+    },
+    "PAL - Médiation Scientifique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/21/2024"
+    },
+    "CM/TD BCC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/06/2024"
+    },
+    "CPB CM/TD"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "02/19/2024"
+    },
+    "Consultation copies ANI"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/20/2023"
+    },
+    "CM/TD Réalité virtuelle"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/15/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/13/2024"
+    },
+    "TD CSA"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "12/11/2023"
+    },
+    "CC APM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/29/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/06/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/25/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/29/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/13/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/22/2023"
+    },
+    "CM EG1 SI"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/15/2023"
+    },
+    "CT Environnement (mutualisé L3) - Durée Hors 1/3 temps"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/22/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/05/2024"
+    },
+    "PAL - Médiation Scientifique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/28/2024"
+    },
+    "TD DSC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/23/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/08/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/13/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/06/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/30/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/04/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/02/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/27/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/26/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/19/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/15/2023"
+    },
+    "MIN_TD CCC Gr1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/12/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/12/2023"
+    },
+    "Chimie ATO cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/13/2023"
+    },
+    "UE2- Capteurs et instrumentation (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/05/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/04/2024"
+    },
+    "UE3 CC - Optique Non Linéaire"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/13/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/08/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/20/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/22/2023"
+    },
+    "Réseaux euclidiens pour la cryptographie TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/26/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/09/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/14/2023"
+    },
+    "UE1- Outils en Maths et Physique (TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/16/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "10:45",
+      "date": "09/04/2023"
+    },
+    "Réunion d'Accueil des étudiants"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/06/2023"
+    },
+    "NAT1 TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/11/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "03/27/2024"
+    },
+    "CT - UE09 Chimie théorique appliquée (Durée HORS 1/3 Temps)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/23/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/10/2024"
+    },
+    "TD NER"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/25/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/18/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/15/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/14/2023"
+    },
+    "Quantum Mechanics 2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/27/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/22/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/04/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/29/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/01/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/11/2024"
+    },
+    "CM - Chimie industrielle"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "14:15",
+      "date": "03/28/2024"
+    },
+    "CT - UE17 Diffraction X (Durée HORS 1/3 Temps)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/17/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/06/2023"
+    },
+    "CC1 - INORGA1 Chimie inorganique 1 (Durée 1H00\\, et 1H20 avec 1/3 tps)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "18:45",
+      "date": "04/17/2024"
+    },
+    "CM LPE (Littérature) - Jacqueline CHAMPION-COJEAN"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/10/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/25/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/13/2024"
+    },
+    "Physique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/12/2023"
+    },
+    "Quantum Mechanics 2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/20/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/11/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/02/2024"
+    },
+    "UC3 Examen Anglais"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/31/2024"
+    },
+    "Physique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/01/2023"
+    },
+    "Rentrée L3 PHYSIQUE-CHIMIE/SciPE PC (Rejoint la L3 CH pr Présentation UE Ouverture incluse)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/08/2024"
+    },
+    "CM - Chimie industrielle"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/23/2024"
+    },
+    "UE5 TD -  Optical Spectroscopy Groupe 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/09/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/10/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/16/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/06/2023"
+    },
+    "MIN_CM ELNU"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/13/2023"
+    },
+    "MIN_CM ELNU"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/20/2023"
+    },
+    "MIN_CM ELNU"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "MIN_CM ELNU"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "MIN_CM ELNU"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/19/2024"
+    },
+    "Outils mathématiques 2 TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/30/2023"
+    },
+    "CM/TD Chimie organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/25/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/25/2023"
+    },
+    "TD PAB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/07/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/13/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/20/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/14/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/27/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/30/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/05/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/09/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/23/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/16/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/06/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/04/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/02/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/18/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/24/2023"
+    },
+    "TD OM3P (P2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/02/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/19/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/26/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/09/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/16/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/23/2023"
+    },
+    "Outils mathématiques 1 TD (gr1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/10/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/03/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/21/2024"
+    },
+    "Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/17/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/28/2023"
+    },
+    "UE9 : Caractérisations des matériaux"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "18:45",
+      "date": "03/25/2024"
+    },
+    "Compléments DEFI physique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/28/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/07/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/19/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/28/2024"
+    },
+    "TD DSC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/23/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/13/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/29/2024"
+    },
+    "CM/TD Maintenance et qualité"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/08/2024"
+    },
+    "CC Chimie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/21/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/06/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/12/2023"
+    },
+    "Chimie SOL cours-TD (gr6)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/26/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "01/18/2024"
+    },
+    "CM Chimie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/28/2023"
+    },
+    "UE1- Outils en Maths et Physique (TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/06/2023"
+    },
+    "COMM - Gestion des RH"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/10/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/02/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/24/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/26/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/12/2024"
+    },
+    "TD PRO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/09/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/22/2023"
+    },
+    "TD IVA Imm"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/12/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/16/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/05/2023"
+    },
+    "UE1- Outils en Maths et Physique (TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/26/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/14/2023"
+    },
+    "Physique Optique Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/19/2024"
+    },
+    "CT - UE11 Les verres :  synthèses\\, propriétés et applications"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/24/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/09/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/02/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/26/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/18/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/22/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/15/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/23/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/16/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/12/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    "Physique 2 - Mécanique TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/05/2023"
+    },
+    "TD Physique subatomique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/21/2023"
+    },
+    "TD Physique subatomique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/11/2024"
+    },
+    "TD OFP"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "09/28/2023"
+    },
+    "UE 11 : Les verres :  synthèses\\, propriétés et applications"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/11/2024"
+    },
+    "TD PRO"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/23/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/16/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/18/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/18/2024"
+    },
+    "CT - SENS - M1 MIAMSA"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "09/26/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "10/03/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/30/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "10/10/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/13/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "10/17/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/20/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "11/07/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    "Anglais Scientifique Mutualisé (Mc Namara) - GRA"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "11/14/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "11/21/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "11/28/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "12/05/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "12/19/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/17/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "18:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "12/12/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:30",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "20:30",
+      "date": "10/24/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "18:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "20:15",
+      "date": "09/19/2023"
+    },
+    "Révision libres encadrées DSDC L1 PCSTM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "PHYS-S1-TD GR A"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/27/2023"
+    },
+    "UC2.2 Statistiques univariées"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/12/2024"
+    },
+    "TD MBA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/30/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/11/2023"
+    },
+    "UE3- Physique statistique (TD Tutoré)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/23/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/14/2023"
+    },
+    "Chimie SOL cours-TD (gr1)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/06/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/12/2023"
+    },
+    "Chimie SOL cours-TD (gr1)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/13/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "TD CEM gr1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/19/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/26/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "07:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "12/14/2023"
+    },
+    "Quantum Mechanics 2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    "Crystallography 2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/17/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/10/2023"
+    },
+    "Crystallography 2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "Quantum Mechanics 2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/01/2023"
+    },
+    "CC RDM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/02/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/30/2024"
+    },
+    "TD MTE"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/31/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/07/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/14/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/24/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/20/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/27/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/21/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/13/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/02/2024"
+    },
+    "Physique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/20/2024"
+    },
+    "TD BQ2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/15/2024"
+    },
+    "TD PRO"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/05/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/22/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/22/2024"
+    },
+    "TD SYS"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/07/2024"
+    },
+    "X-ray physics and synchrotron sources"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/16/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/10/2024"
+    },
+    "TD 3PE"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/03/2024"
+    },
+    "Chimie 2 - TD Thermochimie/cinétique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/18/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/25/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/02/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/09/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/11/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/19/2024"
+    },
+    "TD CHIM2 (Chimie en solution aqueuse)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/20/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/20/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/27/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/04/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/11/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/16/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/23/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/06/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/13/2023"
+    },
+    "Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/12/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "TD PRO"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "19:45",
+      "date": "02/21/2024"
+    },
+    "CM/TD SRE"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/21/2023"
+    },
+    "UE3- TD Spectroscopies optiques (B)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/11/2023"
+    },
+    "Statistical mechanics"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/15/2024"
+    },
+    "CT Chimie moléculaire 2 (polymères & Organométallique) - (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/19/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/12/2024"
+    },
+    "TD - Systèmes et Signaux - Groupe A"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/19/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "19:45",
+      "date": "03/27/2024"
+    },
+    "CM/TD SRE"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/18/2023"
+    },
+    "CM/TD Systèmes d'énergie électrique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/30/2023"
+    },
+    "CC2 - Optique que ENS L3P 2 ans"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/26/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/12/2024"
+    },
+    "TD CHIM2 (Chimie en solution aqueuse)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "01/18/2024"
+    },
+    "UE12 : Matériaux de Coordination et durabilité"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/11/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/22/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/20/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/13/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/08/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/18/2023"
+    },
+    "MIN_CM CCC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/13/2023"
+    },
+    "UC4.2 Politiques agricoles\\, réglementation et normes"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/13/2023"
+    },
+    "PPPE - Atelier 1 (Gr C2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/03/2023"
+    },
+    "CM BIP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/28/2023"
+    },
+    "TCT2-UE2-Module 2 Nanobio-objects (BC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/15/2023"
+    },
+    "MIN_TD TEDM (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/15/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/13/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/20/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/22/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/29/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/25/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/27/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/20/2023"
+    },
+    "MIN_TD TEDM (Gr1)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/01/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/08/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/03/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/25/2024"
+    },
+    "UE3 CM/TD - Imagerie\\, traitement des images"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "04/09/2024"
+    },
+    "TD PAI"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/27/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/24/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/18/2024"
+    },
+    "CCE1 BAR"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/07/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/31/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "02/01/2024"
+    },
+    "UE 11 : Conception et synthèse d'outils moléculaires pour le vivant (Ve)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/14/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/06/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/21/2024"
+    },
+    "Chimie 2 - TD Organique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/13/2023"
+    },
+    "Chimie ATO cours-TD (gr4)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/15/2023"
+    },
+    "Chimie ATO cours-TD (gr7)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/07/2023"
+    },
+    "Atelier 1 SOIE \"Du lycée à l'Université\" - Axelle Clavot - Sophie Guézo - Stéphanie Députier"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/13/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/12/2024"
+    },
+    "TD SYS"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/04/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/05/2024"
+    },
+    "TD BQ2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/04/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/26/2024"
+    },
+    "TD CHIM2 (Chimie en solution aqueuse)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "14:30",
+      "date": "10/06/2023"
+    },
+    "CM/TD Mise en forme de matériaux"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/10/2023"
+    },
+    "CM/TD Mise en forme de matériaux"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/11/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/06/2023"
+    },
+    "ADF-TD2 Beaulieu-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "CM EG1 SI"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/18/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/11/2023"
+    },
+    "TD INORGA1 (C2)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/25/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/11/2024"
+    },
+    "TD DIG"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/13/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/15/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/12/2024"
+    },
+    "TD OFP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/20/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/26/2024"
+    },
+    "SIA3 CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/27/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/20/2023"
+    },
+    "Crystallography 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "PHY Physiologie - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/13/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/06/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/29/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/22/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/06/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/27/2023"
+    },
+    "MIN_CM TEDM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/21/2024"
+    },
+    "Chimie 2 - Chimie des solutions TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/12/2024"
+    },
+    "TD OFP SI"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "12/05/2023"
+    },
+    "TD SAB1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "01/24/2024"
+    },
+    "TD Formation des sols"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/19/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/12/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "UE2- Asservissement (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "Mineure Ingénierie Mécanique 2- CM/TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/26/2024"
+    },
+    "SIA3 CM"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "14:30",
+      "date": "03/15/2024"
+    },
+    "COMM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "Mineure Ingénierie Mécanique 1- CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/19/2024"
+    },
+    "TD CEG"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/20/2023"
+    },
+    "Crystallography 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/30/2023"
+    },
+    "Chimie ATO cours-TD (gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/27/2023"
+    },
+    "MIN_TD ELNU2 (Gr1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/11/2024"
+    },
+    "BA1: adopter une démarche scientifique appliquée à la PC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/12/2023"
+    },
+    "Chimie SOL cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "06/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "06/10/2024"
+    },
+    "Soutenances orales M1 CAH"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "CM GNF"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/04/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/07/2023"
+    },
+    "UE3- Physique statistique (CM)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/22/2024"
+    },
+    "TD Chimie Indus"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/23/2024"
+    },
+    "TD CSP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/12/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/03/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/14/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/28/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/05/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/19/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/11/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/10/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/14/2023"
+    },
+    "UE3- Physique statistique (CM)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/24/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/07/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/21/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/12/2023"
+    },
+    "Chimie ATO cours-TD (gr3)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/16/2023"
+    },
+    "UE3- Physique statistique (CM)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/21/2023"
+    },
+    "UE3- Physique statistique (CM)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/08/2023"
+    },
+    "Crystallography 2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/06/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/17/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/24/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/29/2024"
+    },
+    "TD SYS (Gr2 et 3)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/07/2024"
+    },
+    "Chimie 2 - Chimie des solutions TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/14/2024"
+    },
+    "Chimie 2 - Chimie des solutions TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/14/2024"
+    },
+    "CM/TD BCC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/01/2023"
+    },
+    "Crystallography 2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/21/2023"
+    },
+    "GEC"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/03/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/28/2023"
+    },
+    "DEMI - Rhéologie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    "CCE3 SYS"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/10/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/10/2024"
+    },
+    "TD POP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/08/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/08/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/15/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "09/28/2023"
+    },
+    "UE6 : Structures électroniques\\, propriétés supraconductrices et magnétiques des matériaux"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/22/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/07/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/29/2023"
+    },
+    "Physique Méca Cours-TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/25/2024"
+    },
+    "CM - EC2/EC3 - Thermo"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/11/2023"
+    },
+    "UE3- Interaction Rayonnement Matière Biologique (TD Tutoré)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/14/2023"
+    },
+    "Chimie SOL cours-TD (gr2)"
+  ]
+]

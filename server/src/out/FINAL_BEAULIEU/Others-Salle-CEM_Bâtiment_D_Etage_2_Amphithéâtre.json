@@ -1,0 +1,233 @@
+[
+  [
+    {
+      "hours": "09:30",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/12/2024"
+    },
+    "CC UE2 Module 3 - DTT  - CELESTE (Durée 1H00\\, et 1H20 si 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/07/2024"
+    },
+    "RPTH-S9-CM R.HERMOUET"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/31/2024"
+    },
+    "RPTH-S9-CM R.HERMOUET"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/26/2023"
+    },
+    "CM Théorie de la cavité (Bellec)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/24/2024"
+    },
+    "RPTH-S9-CM C.Lafond"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/06/2023"
+    },
+    "RPTH-S9-CM C.Lafond"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/13/2023"
+    },
+    "RPTH-S9-CM C.Lafond"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/22/2023"
+    },
+    "RPTH-S9-CM C.Lafond"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "18:45",
+      "date": "11/28/2023"
+    },
+    "MODI-S7 CM Y.Rolland"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/29/2023"
+    },
+    "TP Echographie Doppler (Rolland) GrA"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/25/2023"
+    },
+    "RPTH-S9-CM J.BELLEC"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/06/2023"
+    },
+    "UE6- Physique médicale (CM) - LIEU Villejean : Centre Eugene Marquis (CEM)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "10/27/2023"
+    },
+    "CM/TD Radiobiologie: X Ehaute radioth externe\\, proton\\, C2+\\, radiobiologie de la Curie (Benchalal)"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "17:15",
+      "date": "10/20/2023"
+    },
+    "CM/TD Radiobiologie: X Ehaute radioth externe\\, proton\\, C2+\\, radiobiologie de la Curie (Benchalal)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "14:15",
+      "date": "01/10/2024"
+    },
+    "CC UE9 Module 2 RPMM - RP - S.LAFFONT - durée 30' et 40' si tiers-temps)"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/07/2023"
+    },
+    "UE6- Physique médicale (CM) - LIEU Villejean : Centre Eugene Marquis (CEM)"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "13:15",
+      "date": "10/19/2023"
+    },
+    "CM Quantification caméra (Laffont) Villejean - CEM"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/27/2023"
+    },
+    "RPTH-S9-CM F.JOUYAUX"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/11/2023"
+    },
+    "RPTH-S9-CM J.CASTELLI"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/04/2023"
+    },
+    "RPTH-S9-CM J.CASTELLI"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/20/2023"
+    },
+    "CM Distrib. Dabsorbée : e- Ehaute (Céleste)"
+  ]
+]

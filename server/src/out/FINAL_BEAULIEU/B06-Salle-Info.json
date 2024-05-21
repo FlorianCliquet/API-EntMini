@@ -1,0 +1,2147 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/15/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/27/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/18/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/11/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/05/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/16/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/03/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/29/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/09/2024"
+    },
+    "CC - UE1 ORAL Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/24/2024"
+    },
+    "CC3 - Prog"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/03/2024"
+    },
+    "CC3 - Prog"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/17/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/10/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/14/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/14/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/13/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/13/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/20/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/04/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/06/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/06/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/29/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/18/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/11/2024"
+    },
+    "ELEC-S5-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/02/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/22/2023"
+    },
+    "CC - UE1 ORAL Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/14/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/16/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/30/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/30/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/27/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/27/2024"
+    },
+    "Anglais Scientifique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "Problèmes inverses TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/27/2023"
+    },
+    "Problèmes inverses TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/22/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "Problèmes inverses TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/13/2023"
+    },
+    "PSC-CM- Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/18/2024"
+    },
+    "PPAR TP 2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/28/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/21/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/17/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/14/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/05/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/15/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/15/2023"
+    },
+    "Problèmes inverses TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/18/2023"
+    },
+    "Problèmes inverses TP"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/07/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/07/2023"
+    },
+    "CM/TD/TP Astrophysique I"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "09/28/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/06/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/19/2024"
+    },
+    "PPAR TP 2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/10/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/05/2024"
+    },
+    "PPAR TP 2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/11/2024"
+    },
+    "PPAR TP 2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/15/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/23/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/11/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/08/2023"
+    },
+    "Problèmes inverses CM"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/06/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/24/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/09/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/10/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/07/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/08/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/16/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/03/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/04/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/20/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/27/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/17/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/05/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/05/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/17/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/10/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/14/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/10/2024"
+    },
+    "ELEC-S5-TP"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/18/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/12/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/27/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/03/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/15/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "18:45",
+      "date": "10/24/2023"
+    },
+    "CC - UE6 CC1 Physique de l'atome et du noyau (Durée 1H30\\, et 2H00 si étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/04/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/04/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/17/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr2)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/20/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/16/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/04/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/12/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/19/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/10/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/07/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/26/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/03/2023"
+    },
+    "Programmation parallèle et sur GPU-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/23/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/12/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/24/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/20/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/21/2023"
+    },
+    "CC - UE1 ORAL Programmation scientifique (UE1) (Gr4)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/11/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/20/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/17/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/16/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/07/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/15/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/17/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/10/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/21/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/28/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/14/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/05/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/20/2023"
+    },
+    "CC - UE6 CC2 Physique de l'atome et du noyau (Durée 3H\\, et 4H si étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/13/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/05/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/07/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/21/2023"
+    },
+    "CC - UE1 ORAL Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/09/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "03/18/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/02/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "09/21/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "10/19/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/18/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/26/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/16/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "12/11/2023"
+    },
+    "Projets numériques du M2 Nano"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/12/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/19/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr3)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/29/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/15/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/06/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/13/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/18/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/17/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/11/2024"
+    },
+    "MECA-S4-TP gr3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/09/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "10/05/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/09/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/16/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/03/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/23/2023"
+    },
+    "Anglais Scientifique Mutualisé (Dunseath-Terao) - GRB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/15/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/10/2024"
+    },
+    "ELEC-S5-TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/29/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/23/2023"
+    },
+    "Modélisation TP Groupe B"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/13/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/18/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/23/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/09/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/16/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "10/06/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "01/26/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/19/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "02/02/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/29/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/22/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "11/24/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/30/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/02/2023"
+    },
+    "Projets numériques Autonomie du M2 Nano"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/29/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/22/2024"
+    },
+    "TP - Prog"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/16/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/13/2024"
+    },
+    "MECA-S4-TP gr2"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "09/28/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/01/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "09/14/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/08/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/29/2024"
+    },
+    "MECA-S4-TP gr4"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/09/2024"
+    },
+    "MECA-S4-TP gr1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "10/26/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "10/20/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/18/2024"
+    },
+    "PPAR TP 1"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "10/12/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "11/17/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/29/2023"
+    },
+    "Modélisation en sciences de la terre CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "09/29/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/30/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "10/13/2023"
+    },
+    "TP Programmation scientifique (UE1) (Gr1)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/16/2023"
+    },
+    "Modélisation TP Groupe A"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/01/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/10/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "01/12/2024"
+    },
+    "ELEC-S5-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/21/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "Modélisation en sciences de la terre TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/12/2024"
+    },
+    "UE TP Méthodes Numériques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/18/2024"
+    },
+    "MECA-S4-TP gr2"
+  ]
+]

@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "11/18/2023"
+    },
+    {
+      "hours": "14:00",
+      "date": "11/18/2023"
+    },
+    "Ecrit blanc Amphi B bat 2A"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/16/2023"
+    },
+    {
+      "hours": "14:00",
+      "date": "12/16/2023"
+    },
+    "Ecrit blanc Amphi B bat 2A"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/18/2023"
+    },
+    "Ecrit Blanc M2 MEEF Amphi B bat2A"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/14/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/14/2023"
+    },
+    "Ecrit Blanc M2 MEEF Amphi B bat2A"
+  ]
+]

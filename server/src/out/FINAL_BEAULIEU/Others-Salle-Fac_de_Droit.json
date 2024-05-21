@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "hours": "14:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/30/2023"
+    },
+    "Oral remise à niveau Droit"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/14/2023"
+    },
+    "Soutenances orales de remise à niveau Droit administratif"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/07/2023"
+    },
+    "TP préparation audience"
+  ]
+]

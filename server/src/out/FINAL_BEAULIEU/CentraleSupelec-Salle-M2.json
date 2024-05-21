@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "hours": "08:30",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/25/2023"
+    },
+    "Conférence TIC et développement durable - Yves Louet"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/16/2023"
+    },
+    "Conférence spectre radio (ANFR) - Houas Heykel"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/16/2023"
+    },
+    "Conférence spectre radio (ANFR) - Houas Heykel"
+  ]
+]

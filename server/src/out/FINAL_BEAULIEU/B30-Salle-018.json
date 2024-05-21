@@ -1,0 +1,761 @@
+[
+  [
+    {
+      "hours": "17:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "19:15",
+      "date": "10/04/2023"
+    },
+    "CM Qualité faisceaux d’e\\,  - (Périchon)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/15/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/24/2024"
+    },
+    "UE8 CM - Physique Médicale II"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/26/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/23/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/09/2023"
+    },
+    "CM Logiciel ImageJ (Barateau) Villejean - CEM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/10/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/24/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "19:00",
+      "date": "12/06/2023"
+    },
+    "CM Distrib. Dabsorbée :  Ehaute (Périchon) Gr A"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/07/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/14/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/26/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/03/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/12/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/05/2023"
+    },
+    "UE6- Radiobiologie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/08/2023"
+    },
+    "CM IRM - DQPRM et plus (Bannier)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/06/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/19/2023"
+    },
+    "CM Imageries\\, traitement images : tomographie (Odin) Beaulieu"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/25/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "19:00",
+      "date": "10/19/2023"
+    },
+    "CM Distrib. Dabsorbée :  Ehaute (Périchon)"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/07/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/24/2023"
+    },
+    "CM Hadronthérapie.: dosim. part. lourdes (Moignier)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/20/2023"
+    },
+    "CM/TD Méthodes statistiques d’analyse de Données Biomédicales - M2 Photon. (Odin)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/06/2023"
+    },
+    "CM Distrib. Dabsorbée :  Ehaute (Périchon) Gr A"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/16/2024"
+    },
+    "UE8 CM - Physique Médicale II"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "10/26/2023"
+    },
+    "CM/TD Simu Monte Carlo"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/24/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/30/2023"
+    },
+    "CM Monte Carlo en radiotherapie et imagerie (Le Loirec)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/24/2024"
+    },
+    "UE8 TD - Physique Médicale II"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/16/2024"
+    },
+    "UE8 CM - Physique Médicale II"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/15/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/01/2023"
+    },
+    "CM Monte Carlo en radiotherapie et imagerie (Le Loirec)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/28/2023"
+    },
+    "CM Radiobiologie : cinétique chimique (Carles)"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "12/06/2023"
+    },
+    "CM Distrib. Dabsorbée :  Ehaute (Périchon) Gr B"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/21/2023"
+    },
+    "CM Accélérateur particules (Dibout)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/23/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/25/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/08/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/21/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/11/2023"
+    },
+    "CM/TD Simu Monte Carlo"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/13/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/04/2023"
+    },
+    "CM/TD Simu Monte Carlo"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "11/27/2023"
+    },
+    "CM Radiobiologie : cinétique chimique (Carles)"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/16/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/04/2023"
+    },
+    "CM Radiobiologie : cinétique chimique (Carles)"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/09/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "10/05/2023"
+    },
+    "CM Imagerie X\\, contrôle qualité scanner\\, paramètres intervenant dans la qualité d'image et leur relation (Bigand)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/22/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "12/05/2023"
+    },
+    "CM Logiciel ImageJ (Barateau) Villejean - CEM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/16/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/09/2023"
+    },
+    "CM/TD Spectrométrie Gamma et X"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/22/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/28/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "11/21/2023"
+    },
+    "CM/TD Radioprotection : principe de base (Smith)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "09/05/2023"
+    },
+    "CM Imageries\\, traitement images : tomographie (Odin) Beaulieu"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/03/2023"
+    },
+    "CM Imageries\\, traitement images : tomographie (Odin) Beaulieu"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/19/2023"
+    },
+    "CM/TD Mécanique vibratoire"
+  ],
+  [
+    {
+      "hours": "14:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/19/2023"
+    },
+    "CM IRM - DQPRM et plus (Bannier)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/05/2023"
+    },
+    "CM/TD Mécanique vibratoire"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/08/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "10/25/2023"
+    },
+    "CM/TD Radioactivité\\, Rayonnements Ionisants et leurs interactions"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/19/2023"
+    },
+    "CM/TD Mécanique vibratoire"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/08/2023"
+    },
+    "CM/TD Simu Monte Carlo"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/05/2023"
+    },
+    "CM/TD Mécanique vibratoire"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/06/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/09/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/16/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "10/02/2023"
+    },
+    "CM/TD Méthodes numériques (Odin) En anglais"
+  ]
+]

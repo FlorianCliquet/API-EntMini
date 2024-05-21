@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "hours": "13:30",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/05/2023"
+    },
+    "R5_10_ESE_Systèmes embarqués_Cours"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "14:30",
+      "date": "11/22/2023"
+    },
+    "R5_10_ESE_Systèmes embarqués_Cours"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/04/2023"
+    },
+    "R5_10_ESE_Systèmes embarqués_Cours"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "11/20/2023"
+    },
+    "R5_10_ESE_Systèmes embarqués_Cours"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "11/28/2023"
+    },
+    "R5_10_ESE_Systèmes embarqués_Cours"
+  ]
+]

@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "hours": "15:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/20/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/08/2023"
+    },
+    "ADF-TD2 Beaulieu-Analyse\\, distribution\\, Fourier"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/21/2024"
+    },
+    "UC1.3 Examen"
+  ]
+]

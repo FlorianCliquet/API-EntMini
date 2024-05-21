@@ -1,0 +1,3104 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/21/2023"
+    },
+    "TD Instrumentation et Capteurs G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/05/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "TD FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/21/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "04/19/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/22/2023"
+    },
+    "CM Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/05/2024"
+    },
+    "TP SEN4 G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/25/2024"
+    },
+    "TP SEN4 G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/06/2023"
+    },
+    "TP labview 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/01/2024"
+    },
+    "CM FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/15/2023"
+    },
+    "CM Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/25/2024"
+    },
+    "SEM2-S8-TP gr2 L.Rigal"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/18/2023"
+    },
+    "CM 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/02/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/16/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/23/2023"
+    },
+    "TP Conseption Soc"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/29/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/20/2023"
+    },
+    "CM FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/19/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/26/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/03/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/10/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/28/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/02/2024"
+    },
+    "TP SEN4 G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/11/2024"
+    },
+    "SECM Projet G1"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "12/01/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/14/2023"
+    },
+    "TD Instrumentation et Capteurs G2"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "03/26/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "04/30/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/29/2024"
+    },
+    "TD SEN4"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/17/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/22/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/06/2023"
+    },
+    "CM 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/20/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/06/2023"
+    },
+    "CM 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/04/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/09/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/26/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/15/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/15/2023"
+    },
+    "TP Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/07/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/12/2023"
+    },
+    "TP Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/11/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/19/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/08/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/22/2023"
+    },
+    "TP Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/27/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/03/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/15/2023"
+    },
+    "SECM TP G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "04/05/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/15/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/20/2023"
+    },
+    "CM Conception Matlab"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/26/2024"
+    },
+    "TP SEN4 G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/17/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "04/30/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/09/2024"
+    },
+    "TP SEN4 G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/11/2024"
+    },
+    "SECM Projet G1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/08/2023"
+    },
+    "TP Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "03/26/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/15/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/22/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/10/2023"
+    },
+    "TD/TP Conception Labview"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/08/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "04/19/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/27/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "02/20/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/12/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/14/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/10/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/07/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/14/2023"
+    },
+    "SECM TP G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/30/2024"
+    },
+    "TP SEN4 G3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/21/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/16/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/13/2023"
+    },
+    "TP récupération d'Energie G2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/17/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/12/2024"
+    },
+    "SECM Projet G2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/13/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G2"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "05/02/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/12/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/23/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "10:45",
+      "date": "02/05/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/16/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "04/16/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/19/2023"
+    },
+    "TP labview 2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/14/2023"
+    },
+    "SECM TP G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "01/26/2024"
+    },
+    "TP SEN4 G3"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/13/2023"
+    },
+    "TP récupération d'Energie G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/22/2024"
+    },
+    "SEM2-S8-TP gr1 L.Rigal"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/09/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "02/09/2024"
+    },
+    "TP SEN4 G3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/15/2023"
+    },
+    "SECM TP G2"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "02/23/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "03/13/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/14/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/21/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "04/10/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/22/2024"
+    },
+    "TD SEN4"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/24/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/18/2023"
+    },
+    "TP FPGA microcontrôleur et bus de communication-J"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/21/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/29/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/20/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/07/2023"
+    },
+    "TP Conseption Soc"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/27/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/06/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/19/2023"
+    },
+    "TD 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/05/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/29/2024"
+    },
+    "EN1 TP G9"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "04/16/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/09/2024"
+    },
+    "CM/TD Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/08/2024"
+    },
+    "TD Architecture logicielle systèmes embarqués"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/29/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "02/23/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/12/2024"
+    },
+    "SECM Projet G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/14/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/24/2023"
+    },
+    "TP Instrumentation et capteurs G1.1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/14/2024"
+    },
+    "TP FPGA microcontrôleur et bus de communication-J"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/26/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/03/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/10/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/17/2023"
+    },
+    "TP Instrumentation et capteurs G1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/29/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "05/02/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/29/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/16/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/06/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/01/2024"
+    },
+    "TD FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/06/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/27/2023"
+    },
+    "TD/TP Conception Matlab"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/18/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/13/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/11/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/20/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/09/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/10/2024"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/18/2023"
+    },
+    "CM Conception Labview"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "05/03/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/07/2023"
+    },
+    "SECM TP G2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/19/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/20/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/30/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/22/2023"
+    },
+    "SECM Projet G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/15/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/20/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/06/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/27/2023"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "10/25/2023"
+    },
+    "TP Capteur LB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "03/29/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/12/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    "TP FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/24/2023"
+    },
+    "TP SEN3. 2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/21/2023"
+    },
+    "TP Projet Vérif. RISC-V"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/25/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "05/03/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/19/2023"
+    },
+    "CM 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/13/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/11/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/19/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/30/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/18/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/03/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/11/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/21/2023"
+    },
+    "SECM Projet G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/30/2024"
+    },
+    "TP Système électronique embarqué"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "10/20/2023"
+    },
+    "TP SEN3. 2"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "14:30",
+      "date": "02/19/2024"
+    },
+    "CC FPGA microcontrôleur et bus de communication"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/04/2024"
+    },
+    "TP Gestion énergie embarquée"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/07/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/21/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/13/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/21/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/30/2023"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/27/2023"
+    },
+    "TD 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/04/2023"
+    },
+    "TD/TP Conception Labview"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "TP SEN3. 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/22/2023"
+    },
+    "SECM Projet G1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/14/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/19/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/15/2024"
+    },
+    "TP Gestion énergie embarquée"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "12/12/2023"
+    },
+    "TP labview 2"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "03/20/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "03/27/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/02/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/11/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/06/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "03/18/2024"
+    },
+    "SEM1-S6/S8-TP (IoT2)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "TD Instrumentation et Capteurs G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "TD Instrumentation et Capteurs G1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/23/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/18/2023"
+    },
+    "TP FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/13/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/25/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/11/2023"
+    },
+    "TD/TP Conception Matlab"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/05/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués IDBCI"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/07/2023"
+    },
+    "SECM TP G2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/10/2023"
+    },
+    "TP Systèmes autonomes\\, robotique\\, fusion de données"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/29/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/10/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "TP Architecture matérielle systèmes embarqués G1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/21/2024"
+    },
+    "TP Architecture logicielle systèmes embarqués SE"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/07/2023"
+    },
+    "TP Conseption Soc"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/20/2023"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/18/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/10/2024"
+    },
+    "EN2 TP G5"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "SECM TP G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/29/2024"
+    },
+    "EN1 TP G9*"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/04/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/24/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/11/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/06/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "06/17/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "06/17/2024"
+    },
+    "CSE-S8-CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/03/2023"
+    },
+    "TP 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/17/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/20/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/30/2024"
+    },
+    "CM FPGA microcontrôleur et bus de communication-J"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "CM FPGA microcontrôleur et bus de communication-J"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/02/2024"
+    },
+    "TD Architecture logicielle systèmes embarqués"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/11/2024"
+    },
+    "SECM Projet G1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/09/2024"
+    },
+    "TD Architecture logicielle systèmes embarqués"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/16/2023"
+    },
+    "CSE-S9-CM"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "10/06/2023"
+    },
+    "CSE-S9-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "02/07/2024"
+    },
+    "TP FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/26/2023"
+    },
+    "TP SEN3. 2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/21/2023"
+    },
+    "TP SEN3. 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/27/2023"
+    },
+    "CM 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/13/2023"
+    },
+    "CM Conception Matlab"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/09/2023"
+    },
+    "CSE-S9-CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/14/2023"
+    },
+    "TP SEN3. 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/02/2024"
+    },
+    "TD Architecture logicielle systèmes embarqués"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/20/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "11/16/2023"
+    },
+    "TP SEN3. 2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/21/2023"
+    },
+    "SECM Projet G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/30/2024"
+    },
+    "CM FPGA microcontrôleur et bus de communication-S"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "02/02/2024"
+    },
+    "TP SEN4 G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/06/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/13/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/25/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/20/2023"
+    },
+    "TP récupération d'Energie G1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/05/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "02/13/2024"
+    },
+    "TP FPGA microcontrôleur et bus de communication-J"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/22/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "05/23/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/03/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/15/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/16/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/04/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/18/2023"
+    },
+    "TD 6-1 loT sur STM32 et MCU ARM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/08/2023"
+    },
+    "SECM TP G1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/21/2023"
+    },
+    "TD Instrumentation et Capteurs G2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "TP Instrumentation et capteurs G1.2"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/15/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/25/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "05/23/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/22/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/25/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "04/08/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/13/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/27/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "05/27/2024"
+    },
+    "CSE-S8-TP"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/25/2023"
+    },
+    "TP SEN3. 1"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "TP SEN3. 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/20/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/18/2023"
+    },
+    "TP Mise en oeuvre sur FPGA et Numérique G2"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/03/2024"
+    },
+    "SEM1-S6/S8-TP (TIS1)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/27/2023"
+    },
+    "TD Instrumentation et Capteurs G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/05/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/15/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/17/2023"
+    },
+    "TP Instrumentation et capteurs G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/02/2023"
+    },
+    "CM Conception Matlab"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    "PRO1-Projet défi SEM1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "10/23/2023"
+    },
+    "CM Conseption Soc"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "10/25/2023"
+    },
+    "TP Capteur LB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "12/11/2023"
+    },
+    "TP labview 1"
+  ]
+]

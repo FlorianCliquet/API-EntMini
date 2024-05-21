@@ -1,0 +1,464 @@
+[
+  [
+    {
+      "hours": "13:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "UE B3b Applications de l’optique quantique (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "14:15",
+      "date": "10/20/2023"
+    },
+    "REUNION BILAN MI SEMESTRE"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/10/2023"
+    },
+    "UE B2a  Physique des nanostructures semi-conductrices optiques (Salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "UE A1b Optique microonde"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/24/2023"
+    },
+    "UE A3b  - Réseaux optiques II"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/01/2023"
+    },
+    "UE A3b  - Réseaux optiques II"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "01/12/2024"
+    },
+    "UE B2b Technologies quantiques (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/17/2023"
+    },
+    "UE B3b Applications de l’optique quantique (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/24/2023"
+    },
+    "UE B3b Applications de l’optique quantique (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/16/2023"
+    },
+    "UE A3b  - Réseaux optiques II"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "UE A2a  Amplification et fonctions optiques à base de SOA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "UE A2a  Amplification et fonctions optiques à base de SOA"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/23/2023"
+    },
+    "UE A1b Optique microonde"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/07/2023"
+    },
+    "UE A1b Optique microonde"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/08/2023"
+    },
+    "UE B2b Technologies quantiques (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/22/2023"
+    },
+    "UE B2b Technologies quantiques (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/01/2023"
+    },
+    "UE B2b Technologies quantiques (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "UE B2a  Physique des nanostructures semi-conductrices optiques (Salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "UE B2a  Physique des nanostructures semi-conductrices optiques (Salle visioconf)"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/14/2023"
+    },
+    "UE A1a Amplification\\, propagation non linéaire\\, transmissions"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/30/2023"
+    },
+    "UE A1a Amplification\\, propagation non linéaire\\, transmissions"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/16/2023"
+    },
+    "UE A1a Amplification\\, propagation non linéaire\\, transmissions"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/08/2023"
+    },
+    "UE A3a  - Réseaux optiques I"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/15/2023"
+    },
+    "UE A3a  - Réseaux optiques I"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/15/2023"
+    },
+    "UE B1a Résonateurs et couplage de modes"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/22/2023"
+    },
+    "UE B1a Résonateurs et couplage de modes"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/19/2024"
+    },
+    "UE B1a Résonateurs et couplage de modes"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/26/2023"
+    },
+    "UE - Nanosciences and Nanosystems in Photonics (Mutualisé M2 Nanosciences + M2 Photon)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/16/2023"
+    },
+    "UE - Nanosciences and Nanosystems in Photonics (Mutualisé M2 Nanosciences + M2 Photon)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "UE - Nanosciences and Nanosystems in Photonics (Mutualisé M2 Nanosciences + M2 Photon)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "UE - Nanosciences and Nanosystems in Photonics (Mutualisé M2 Nanosciences + M2 Photon)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "UE A2b Dispositifs dynamiques pour les réseaux optiques"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "UE A2b Dispositifs dynamiques pour les réseaux optiques"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "UE A2b Dispositifs dynamiques pour les réseaux optiques"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "UE A2a  Amplification et fonctions optiques à base de SOA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "UE B3a Optique non linéaire (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "UE B3a Optique non linéaire (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "UE B3a Optique non linéaire (salle visioconf)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "UE A3a  - Réseaux optiques I"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/17/2023"
+    },
+    "UE A2a  Amplification et fonctions optiques à base de SOA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/18/2024"
+    },
+    "UE B1a Résonateurs et couplage de modes"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/15/2023"
+    },
+    "UE B3a Optique non linéaire (salle visioconf)"
+  ]
+]

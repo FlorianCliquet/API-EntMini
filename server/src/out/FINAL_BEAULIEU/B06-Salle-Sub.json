@@ -1,0 +1,442 @@
+[
+  [
+    {
+      "hours": "10:45",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/05/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "03/25/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/05/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "03/11/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "03/18/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/18/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/11/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/03/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/03/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "12/07/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/05/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "12/07/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/06/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/29/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "11/29/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "10:45",
+      "date": "12/07/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/22/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/15/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/29/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/19/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/12/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/07/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "03/29/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "03/15/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "03/22/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "04/12/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "04/19/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 2"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "04/09/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "04/16/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "12/05/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "11/29/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/16/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "04/12/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/29/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/06/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "04/09/2024"
+    },
+    "UE8 TP - Physique Médicale II Groupe 1"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/06/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe B"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "12/06/2023"
+    },
+    "TP Spectro X G (R2ISXG) - Gpe A"
+  ]
+]

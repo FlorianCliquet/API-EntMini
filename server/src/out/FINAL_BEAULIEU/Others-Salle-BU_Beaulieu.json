@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "10/12/2023"
+    },
+    "UE5 - CPS TD biblio BU gr1 et 2"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/15/2024"
+    },
+    "\"Rechercher et évaluer l'info\" MBA-BU (salle 103)"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "02/19/2024"
+    },
+    "\"Rechercher et évaluer l'info\" MBA-BU (salle 103)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/16/2024"
+    },
+    "\"Rechercher et évaluer l'info\" MBA-BU (salle 103)"
+  ]
+]

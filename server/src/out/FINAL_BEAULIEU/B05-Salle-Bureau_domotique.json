@@ -1,0 +1,57 @@
+[
+  [
+    {
+      "hours": "13:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "04/08/2024"
+    },
+    "Projet universitaire"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/11/2024"
+    },
+    "Projet universitaire"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/10/2024"
+    },
+    "Projet universitaire"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/17/2024"
+    },
+    "Projet universitaire"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/05/2024"
+    },
+    "Projet universitaire"
+  ]
+]

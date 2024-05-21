@@ -1,0 +1,574 @@
+[
+  [
+    {
+      "hours": "10:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/05/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/12/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "02/12/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "02/19/2024"
+    },
+    "Ecoulement en milieu poreux"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "02/08/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/20/2024"
+    },
+    "Modèle génétique des ressources  (MGR)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/24/2024"
+    },
+    "Modèle génétique des ressources  (MGR)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/13/2024"
+    },
+    "Modèle génétique des ressources  (MGR)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/22/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/14/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "02/19/2024"
+    },
+    "Ecoulement en milieu poreux"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/25/2024"
+    },
+    "Ecoulement en milieu poreux"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/08/2023"
+    },
+    "Géologie structurale"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "02/13/2024"
+    },
+    "Orogénèse"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/23/2024"
+    },
+    "Initiation Gestion Environnement (TD)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/04/2023"
+    },
+    "RÉUNION DE RENTRÉE"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/23/2024"
+    },
+    "Initiation Gestion Environnement (TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/07/2023"
+    },
+    "Géologie structurale"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/25/2024"
+    },
+    "Réunion stages professionnels"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/07/2023"
+    },
+    "Géologie structurale"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/13/2024"
+    },
+    "Géochimie (Datation déformation)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/22/2024"
+    },
+    "Diagraphie"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/21/2024"
+    },
+    "Géochimie (Datation déformation)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/16/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/09/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/23/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/02/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/06/2024"
+    },
+    "Gestion des contaminants"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/20/2024"
+    },
+    "Entretien - PPPE"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "01/30/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/02/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/12/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/19/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/26/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/20/2024"
+    },
+    "Entretien - PPPE"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "03/15/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/11/2024"
+    },
+    "PTU"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/23/2024"
+    },
+    "Gestion des contaminants"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/11/2024"
+    },
+    "PTU"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/19/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "01/23/2024"
+    },
+    "Géologie structurale"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/22/2024"
+    },
+    "Entretien - PPPE"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/01/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/18/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/25/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/11/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "01/25/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "01/18/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/01/2024"
+    },
+    "Couplage océan-atmosphère à l'échelle des temps géologiques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/22/2024"
+    },
+    "Entretien - PPPE"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "03/21/2024"
+    },
+    "Géochimie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "03/14/2024"
+    },
+    "Géochimie"
+  ]
+]

@@ -1,0 +1,739 @@
+[
+  [
+    {
+      "hours": "09:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "10/10/2023"
+    },
+    "UC1.4 - Présentation du réseau CIVAM"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/10/2024"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/20/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/08/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/22/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/15/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/13/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/17/2024"
+    },
+    "Présentation Fablab (Bat 9B RDC)\\, équipements\\, esprit low-tech\\, méthodologie G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "03/21/2024"
+    },
+    "Fablab-PJ G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "07/09/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "07/09/2024"
+    },
+    "Soutenances PNRB Salle TD5\\, 6 et 7 (3ème étage) bat 9B"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/30/2023"
+    },
+    "Forum Grand Ouest (halle Francis Querné\\, Campus de Beaulieu)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/08/2024"
+    },
+    "Fablab-PJ G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/22/2024"
+    },
+    "Fablab-PJ G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/15/2024"
+    },
+    "Fablab-PJ G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/05/2024"
+    },
+    "1Fablab TP G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:15",
+      "date": "11/30/2023"
+    },
+    "UE7 - Biological  -  VISITE DU LABORATOIRE LPG-BIAF\\, Univ. d'Angers"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/24/2024"
+    },
+    "1Fablab TP G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "01/31/2024"
+    },
+    "1Fablab TP G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/04/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/29/2023"
+    },
+    "UE7 - Biological  -  Attention\\, cours à Univ. d'Angers"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/07/2024"
+    },
+    "Fablab-PJ G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/21/2024"
+    },
+    "Fablab-PJ G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/14/2024"
+    },
+    "Fablab-PJ G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/12/2024"
+    },
+    "1Fablab TP G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "12/04/2023"
+    },
+    "MODI-S7-TP TIS gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/20/2024"
+    },
+    "Fablab-PJ G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/30/2023"
+    },
+    "UE7 - Biological  -  Attention\\, cours à Univ. d'Angers"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/30/2023"
+    },
+    "UE7 - Biological  -  Attention\\, cours à Univ. d'Angers"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/13/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/20/2023"
+    },
+    "Contrôle optimal TD-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/05/2024"
+    },
+    "1Fablab TP G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "18:30",
+      "date": "01/26/2024"
+    },
+    "Contrôle optimal CC"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "01/17/2024"
+    },
+    "Visite SCALIAN"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/28/2023"
+    },
+    "UE8 - Micropal.\\, sea & paléoclimat  -  Attention\\, cours à Univ d'Angers"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "03/14/2024"
+    },
+    "Correction problème S2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    "1Fablab TP G3 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/12/2024"
+    },
+    "1Fablab TP G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/23/2024"
+    },
+    "1Fablab TP G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/30/2024"
+    },
+    "1Fablab TP G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/12/2024"
+    },
+    "1Fablab TP G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "12/11/2023"
+    },
+    "MODI-S7-TP TIS gr2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/17/2024"
+    },
+    "Présentation Fablab (Bat 9B RDC)\\, équipements\\, esprit low-tech\\, méthodologie G1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/15/2023"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/22/2023"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "01/10/2024"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/08/2023"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/01/2023"
+    },
+    "UE8 - Micropal.\\, sea & paléoclimat  -  Attention\\, cours à Univ d'Angers"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/02/2024"
+    },
+    "Visite ST Microelectronics"
+  ],
+  [
+    {
+      "hours": "18:30",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "20:30",
+      "date": "01/25/2024"
+    },
+    "Corners chez Capgemini"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "01/12/2024"
+    },
+    "Séminaire crypto (la salle peut varier)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/31/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "05/31/2024"
+    },
+    "DCI Bilan (Locaux creative seeds)"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "11/28/2023"
+    },
+    "UE8 - Micropal.\\, sea & paléoclimat  -  Attention\\, cours à Univ d'Angers"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/19/2024"
+    },
+    "Fablab-PJ G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/01/2024"
+    },
+    "1Fablab TP G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/25/2024"
+    },
+    "1Fablab TP G2 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "19:00",
+      "date": "01/10/2024"
+    },
+    "Séminaire M2 Recherche"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/18/2023"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/11/2023"
+    },
+    "Contrôle optimal CM"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "05/22/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/22/2024"
+    },
+    "visite CAP GEMINI"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "02/06/2024"
+    },
+    "Visite SCALIAN"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/29/2023"
+    },
+    "UE7 - Biological  -  Attention\\, cours à Univ. d'Angers"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "11/30/2023"
+    },
+    "UE8 - Micropal.\\, sea & paléoclimat  -  Attention\\, cours à Univ d'Angers"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "07/09/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "07/09/2024"
+    },
+    "Soutenances PNRB Salle TD5\\, 6 et 7 (3ème étage) bat 9B"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/06/2024"
+    },
+    "Fablab-PJ G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/13/2024"
+    },
+    "Fablab-PJ G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/20/2024"
+    },
+    "Fablab-PJ G1 (Bat 9B RDC)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/09/2024"
+    },
+    "Visite ST Microelectronics"
+  ]
+]

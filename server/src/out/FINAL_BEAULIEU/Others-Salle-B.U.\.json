@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "hours": "11:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/13/2023"
+    },
+    "Atelier Zotéro groupe 2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/29/2023"
+    },
+    "Atelier Zotéro groupe 1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/13/2023"
+    },
+    "Atelier Zotéro groupe 3"
+  ]
+]

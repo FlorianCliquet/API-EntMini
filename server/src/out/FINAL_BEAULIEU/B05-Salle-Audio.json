@@ -1,0 +1,1905 @@
+[
+  [
+    {
+      "hours": "10:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/22/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/15/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/14/2024"
+    },
+    "Prospection géophysique - TP"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/18/2023"
+    },
+    "Modélisation des transferts souterrains / Module B - Séquence 3 - Écoulements diphasiques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/16/2024"
+    },
+    "Traitement des données de terrain de Ploemeur"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/06/2023"
+    },
+    "SAM - PROG - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/13/2023"
+    },
+    "SAM - PROG - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/29/2023"
+    },
+    "SAM - PROG - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/13/2024"
+    },
+    "Géophysique - CC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/10/2024"
+    },
+    "Modélisation  - Révisions (alternants)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/12/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/22/2023"
+    },
+    "SAM - QGIS - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/22/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/15/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/15/2023"
+    },
+    "SAM - QGIS - Gr2"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "11/06/2023"
+    },
+    "Site de Betton : Présentation virtuelle & travail sur les données"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/23/2023"
+    },
+    "Géométrie 3D des structures géologiques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/28/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/31/2024"
+    },
+    "Géophysique de subsurface"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/07/2024"
+    },
+    "Géophysique de subsurface"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/29/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/05/2024"
+    },
+    "Réservoirs"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/08/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/27/2023"
+    },
+    "SAM - QGIS"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/20/2023"
+    },
+    "SAM - QGIS"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/13/2023"
+    },
+    "SAM - QGIS"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/22/2023"
+    },
+    "SAM - QGIS - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/15/2023"
+    },
+    "SAM - QGIS - Gr2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/10/2024"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/25/2024"
+    },
+    "Géochronologie"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/13/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/11/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/14/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/08/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/15/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/27/2023"
+    },
+    "Modélisation des transferts souterrains / Module B - Séquence 1 - Milieux fracturés"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/22/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "03/28/2024"
+    },
+    "Projets"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/28/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/27/2023"
+    },
+    "Modélisation des transferts souterrains / Module B - Séquence 1 - Milieux fracturés"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/23/2023"
+    },
+    "Géométrie 3D des structures géologiques"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/22/2023"
+    },
+    "Anglais scientifique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "01/25/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/22/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/12/2023"
+    },
+    "Anglais scientifique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/04/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/06/2023"
+    },
+    "Journée de rentrée  -  SIG"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/27/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/30/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/20/2023"
+    },
+    "SAM - PROG"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/11/2023"
+    },
+    "Dynamique des bassins / Activité projet"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/06/2023"
+    },
+    "Journée de rentrée  -  SIG"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/15/2024"
+    },
+    "Traitement des données de terrain de Ploemeur"
+  ],
+  [
+    {
+      "hours": "07:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "08:30",
+      "date": "02/05/2024"
+    },
+    "Outils calculatoires"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/24/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/25/2023"
+    },
+    "SAM - QGIS - Gr2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/01/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/12/2023"
+    },
+    "SAM - QGIS - Gr1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/19/2023"
+    },
+    "SAM - QGIS - Gr1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/17/2023"
+    },
+    "SAM - PROG - Gr1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/26/2023"
+    },
+    "SAM - PROG - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/09/2023"
+    },
+    "Dynamique des bassins"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/06/2023"
+    },
+    "SAM - PROG - Gr2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/13/2023"
+    },
+    "SAM - PROG - Gr2"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/31/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/30/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/13/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/10/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/24/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/17/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/29/2023"
+    },
+    "SAM - LIDAR / GROUPE 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/15/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/19/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/03/2024"
+    },
+    "Prospection géophysique - Gr. 2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/29/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/04/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/27/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/02/2024"
+    },
+    "Outils calculatoires"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/20/2023"
+    },
+    "SAM - PROG"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/13/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/19/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/10/2024"
+    },
+    "Transport réactif"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/15/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/16/2024"
+    },
+    "Outils calculatoires"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/05/2023"
+    },
+    "Socio-hydrologie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/16/2023"
+    },
+    "Socio-hydrologie"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/20/2023"
+    },
+    "SAM - PROJET : Rendu / Gr2"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/24/2023"
+    },
+    "Géométrie 3D des structures géologiques"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/20/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/08/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/15/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/22/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/09/2023"
+    },
+    "SAM - PROG"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "11/06/2023"
+    },
+    "Traitement des données du terrain à Betton"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/21/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/06/2023"
+    },
+    "SAM - PROJET"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "04/19/2024"
+    },
+    "Outils calculatoires"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/06/2023"
+    },
+    "Journée de rentrée  -  SIG"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "18:45",
+      "date": "04/05/2024"
+    },
+    "Transport réactif"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/09/2023"
+    },
+    "Dynamique des bassins"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "11/10/2023"
+    },
+    "Stage de terrain"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/29/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/27/2024"
+    },
+    "Prospection géophysique - Gr. 1"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/09/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "09/06/2023"
+    },
+    "Journée de rentrée  -  SIG"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/12/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/28/2024"
+    },
+    "L3 STE-G et M1 GeoRES : Cartographie et Orogène par Mme DeFelipe"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/25/2023"
+    },
+    "SAM - LIDAR / GROUPE 1"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "03/26/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/01/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/30/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/26/2023"
+    },
+    "SAM - QGIS - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/19/2023"
+    },
+    "SAM - QGIS - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/12/2023"
+    },
+    "SAM - QGIS - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/13/2024"
+    },
+    "TD GEO"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/15/2024"
+    },
+    "TD GEO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/10/2023"
+    },
+    "SAM - PROG - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/17/2023"
+    },
+    "SAM - PROG - Gr1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "04/05/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/08/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/15/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/30/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/12/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/24/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/29/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/13/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/20/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/13/2023"
+    },
+    "SAM - QGIS"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/20/2023"
+    },
+    "SAM - QGIS"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/04/2024"
+    },
+    "Outils calculatoires"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/15/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/26/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/01/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/11/2024"
+    },
+    "Transport réactif"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/05/2023"
+    },
+    "Dynamique des bassins / Activité projet"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/28/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/19/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/12/2023"
+    },
+    "SAM - LIDAR / GROUPE 2"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/16/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "11/17/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "17:45",
+      "date": "12/01/2023"
+    },
+    "Modélisation des transferts souterrains / Module A - Modélisation hydrogéologique"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/11/2024"
+    },
+    "Transport réactif"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/20/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/07/2023"
+    },
+    "SAM - PROJET - Gr1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/29/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/13/2023"
+    },
+    "Dynamique des reliefs"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/28/2023"
+    },
+    "Modélisation numérique 3D"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/09/2024"
+    },
+    "Modélisaton - TP - Projet (alternants)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/05/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/08/2024"
+    },
+    "Modélisation  - Révisions (alternants)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/12/2023"
+    },
+    "SAM - ARCGIS"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "01/26/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/12/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/11/2024"
+    },
+    "Modélisation  - Révisions (alternants)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "10/09/2023"
+    },
+    "SAM - PROG"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/22/2023"
+    },
+    "Réunion d'information sur l'UE Synthèse bibliographique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/19/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/18/2023"
+    },
+    "Modélisation des transferts souterrains / Module B - Séquence 3 - Écoulements diphasiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/12/2024"
+    },
+    "Prospection géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/07/2023"
+    },
+    "SAM - PROJET - Gr1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/06/2023"
+    },
+    "SAM - PROJET"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/12/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "09/27/2023"
+    },
+    "SAM - PROG"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/02/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/17/2023"
+    },
+    "Modélisation des transferts souterrains / Module B - Séquence 1 - Milieux fracturés"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "03/21/2024"
+    },
+    "Prospection géophysique - TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "11/24/2023"
+    },
+    "SAM - STATISTIQUES"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "10/12/2023"
+    },
+    "SAM - LIDAR / GROUPE 2"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/26/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "03/12/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/06/2024"
+    },
+    "Géophysique"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/09/2024"
+    },
+    "Géophysique"
+  ]
+]

@@ -1,0 +1,321 @@
+[
+  [
+    {
+      "hours": "10:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/05/2023"
+    },
+    "SSO/IP3 Sciences et société"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "02/06/2024"
+    },
+    "UE1-Serious game - Amphi au PNRB à BEAULIEU"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/05/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/05/2024"
+    },
+    "GDP - Oraux"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/10/2024"
+    },
+    "UE5 CM -  Optical Spectroscopy"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/31/2023"
+    },
+    {
+      "hours": "19:00",
+      "date": "10/31/2023"
+    },
+    "TIM"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/24/2024"
+    },
+    "Ma SBB en 180'"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "12/08/2023"
+    },
+    "Remise des diplômes"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "09/04/2023"
+    },
+    "SSO/IP3 Sciences et société"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/19/2023"
+    },
+    "Soutenance M3"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/18/2023"
+    },
+    "Soutenance M3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "12/07/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "03/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/07/2024"
+    },
+    "Soutenances finales EDM"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/07/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/14/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/06/2023"
+    },
+    "SSO/IP3 Sciences et société"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/05/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/12/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "10/26/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/05/2023"
+    },
+    "SSO/IP3 Sciences et société"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/10/2024"
+    },
+    "UE5 CM -  Optical Spectroscopy (Susanna WIDICUS-WEAVER)"
+  ],
+  [
+    {
+      "hours": "13:45",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/20/2023"
+    },
+    "Soutenance M3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/12/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/05/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "10/26/2023"
+    },
+    "cours Certification EA"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/18/2023"
+    },
+    "Soutenance M3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "01/31/2024"
+    },
+    "Soutenance CPS"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/06/2023"
+    },
+    "SSO/IP3 Sciences et société"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "10/10/2023"
+    },
+    "UE1-Transitions et gestion du changement  : La fresque  du climat - Télé Amphi au PNRB à BEAULIEU"
+  ]
+]

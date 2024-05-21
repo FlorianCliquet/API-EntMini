@@ -1,0 +1,530 @@
+[
+  [
+    {
+      "hours": "16:45",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/04/2024"
+    },
+    "PRG2 CC"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/22/2024"
+    },
+    "PRG2 CC"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "04/15/2024"
+    },
+    "CCE2 MAT2"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "11/24/2023"
+    },
+    "CCE2 - Examen en présentiel - UE Mécanique du point 1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/01/2023"
+    },
+    "CCE2 - Examen en présentiel - Chimie 1 - SOL"
+  ],
+  [
+    {
+      "hours": "12:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "12:45",
+      "date": "10/23/2023"
+    },
+    "CCE1 CHIM1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "04/17/2024"
+    },
+    "CT Chimie inorganique 4 (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "04/18/2024"
+    },
+    "CC3 BCC"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "05/29/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "05/29/2024"
+    },
+    "CCE4 BCEL"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/21/2024"
+    },
+    "CC - Electronique et capteur"
+  ],
+  [
+    {
+      "hours": "17:30",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/06/2023"
+    },
+    "CCE BQ1 (QCM)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/12/2023"
+    },
+    "CC1 - CTHERMO1 (Durée 1H\\, et 1H20 avec 1/3 Temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/27/2023"
+    },
+    "CCE1 MAT1"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "03/19/2024"
+    },
+    "CCE - IPN2 - M1 NSA"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "05/28/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "05/28/2024"
+    },
+    "CCE3 MAT2"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:30",
+      "date": "12/04/2023"
+    },
+    "CCE2-CCE3 OVIV"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "19:00",
+      "date": "12/04/2023"
+    },
+    "ACE CC"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/20/2023"
+    },
+    "CCE1 -  Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "03/22/2024"
+    },
+    "CT - SOCA - M1 NSA"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    "CCE2 - Outils mathématiques 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "04/19/2024"
+    },
+    "CT2 Electrochimie (Durée Hors 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/29/2024"
+    },
+    "CC -  EDS - ECRIT - M1 BEE M1 CAH (Tiers temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "10/06/2023"
+    },
+    "CCE2 - Outils mathématiques 1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "02/12/2024"
+    },
+    "CCE1 SYS"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "04/08/2024"
+    },
+    "CCE2 CHIM2"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/13/2023"
+    },
+    "CCE1 - Examen en présentiel - UE Optique géométrique"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "11/27/2023"
+    },
+    "CCE2 BMOL"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/29/2024"
+    },
+    "CC TS 1h00 + tiers temps"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/29/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "05/29/2024"
+    },
+    "CCE4 BECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "12/04/2023"
+    },
+    "CCE1 PSV"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/11/2023"
+    },
+    "TP DMC DCT DTO"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "04/17/2024"
+    },
+    "CC5 - Chimie 2 - Thermochimie/cinétique (2h tiers temps compris 90min hors tiers temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "04/15/2024"
+    },
+    "CCE2 BCEL"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    "CCE1 BMG Génétique"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "05/21/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/21/2024"
+    },
+    "CCE4 CHIM2"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/19/2024"
+    },
+    "CCE1 BCEL"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/20/2023"
+    },
+    "CCE2 NEURO"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/19/2024"
+    },
+    "CCI COMNUM 1h30 + tiers temps"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "12/15/2023"
+    },
+    "CCE3 - Applications des Mathématiques 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "14:15",
+      "date": "02/23/2024"
+    },
+    "CC1 GEREE 1h + tiers temps"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "15:15",
+      "date": "12/15/2023"
+    },
+    "CCE3 - Outils mathématiques 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "05/07/2024"
+    },
+    "CC2 GEREE 1h + tiers temps"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "03/15/2024"
+    },
+    "MIN CC1 - Les mathématiques par la Physique (Durée 1h+20min tiers temps)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "03/18/2024"
+    },
+    "CCE2 BECO"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "08:45",
+      "date": "03/11/2024"
+    },
+    "CCE1 CHIM2"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/21/2024"
+    },
+    "CT - SIA3 - M1 NSA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/13/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "12/13/2023"
+    },
+    "CCE3 - Examen en présentiel - UE Mécanique du point 1"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "04/12/2024"
+    },
+    "CC4 - Chimie 2 - Chimie des solutions (1h30 hors tiers temps)"
+  ]
+]

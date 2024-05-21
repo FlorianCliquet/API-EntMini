@@ -1,0 +1,46 @@
+[
+  [
+    {
+      "hours": "12:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "14:00",
+      "date": "02/20/2024"
+    },
+    "FORUM DES MASTERS - Hall du bâtiment 2"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/11/2023"
+    },
+    "PARRAINAGE M1 MIAGE"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/02/2024"
+    },
+    "Journée d'étude \"Ville durable\"  / anniversaire Master ED"
+  ],
+  [
+    {
+      "hours": "16:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "20:00",
+      "date": "12/07/2023"
+    },
+    "ANNIVERSAIRE MIAGE"
+  ]
+]

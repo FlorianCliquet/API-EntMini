@@ -1,0 +1,651 @@
+[
+  [
+    {
+      "hours": "09:30",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "03/15/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "02/16/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/22/2023"
+    },
+    "CM/TD Systèmes embarqués bus transport-G"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "02/09/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/01/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/20/2023"
+    },
+    {
+      "hours": "12:30",
+      "date": "12/20/2023"
+    },
+    "CM/TD Systèmes embarqués bus transport-P"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "02/23/2024"
+    },
+    "TP/TD  systeme embarqué bus Lin"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "12/07/2023"
+    },
+    "TD Conception"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "11/30/2023"
+    },
+    "TD Conception"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "10/12/2023"
+    },
+    "TD Conception"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "01/31/2024"
+    },
+    "CM/TD Systèmes embarqués bus transport-P"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/01/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/08/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "03/14/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "02/22/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "16:45",
+      "date": "02/15/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/22/2024"
+    },
+    "CC Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "10/05/2023"
+    },
+    "TD/TP Conception"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "09/14/2023"
+    },
+    "TD/TP Conception"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "09/21/2023"
+    },
+    "TD/TP Conception"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "09:00",
+      "date": "09/28/2023"
+    },
+    "TD/TP Conception"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/14/2023"
+    },
+    "CM/TD Systèmes embarqués bus transport-G"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "10/06/2023"
+    },
+    "CM/TD  systeme embarqué1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "02/22/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "03/14/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "02/15/2024"
+    },
+    "CM Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "09/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/06/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/21/2023"
+    },
+    "TP Systèmes embarqués -fpga-labview"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "CM/TP  systeme embarqué bus Lin"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/15/2023"
+    },
+    "CM/TD systeme embarqué1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "TP Systèmes embarqués pour le transport-évaluation"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "09/15/2023"
+    },
+    "CM/TD systeme embarqué1"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/05/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/01/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/15/2024"
+    },
+    "TP Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/21/2024"
+    },
+    "TP Capteur automobile et instrumentation"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "03/13/2024"
+    },
+    "TP/TD Systèmes embarqués bus transport"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/14/2024"
+    },
+    "TP/TD Systèmes embarqués bus transport"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/21/2024"
+    },
+    "TP/TD Systèmes embarqués bus transport"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/07/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/05/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/28/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/30/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/12/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/21/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/14/2023"
+    },
+    "TP Conception"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "03/15/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "01/31/2024"
+    },
+    "CM/TD Systèmes embarqués bus transport-P"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "02/09/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "02/16/2024"
+    },
+    "TD/TP Systèmes embarqués pour le transport-G"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "09/22/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "09/29/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "11/24/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:15",
+      "date": "10/06/2023"
+    },
+    "CM Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/24/2023"
+    },
+    "TP Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/06/2023"
+    },
+    "TP Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/22/2023"
+    },
+    "TP Systèmes embarqués pour le transport-R"
+  ],
+  [
+    {
+      "hours": "09:15",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/29/2023"
+    },
+    "TP Systèmes embarqués pour le transport-R"
+  ]
+]

@@ -1,0 +1,145 @@
+[
+  [
+    {
+      "hours": "09:00",
+      "date": "07/05/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "07/05/2024"
+    },
+    "CT UE Traitement du signal et IA seconde session"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "06/19/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "06/19/2024"
+    },
+    "1CC ILM (1h30 + tiers-temps) seconde chance"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "07/15/2024"
+    },
+    {
+      "hours": "09:00",
+      "date": "07/15/2024"
+    },
+    "SESSION 2/S7 - CT UE1 Cristallographie (Durée HORS 1/3 Temps)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/18/2023"
+    },
+    "LAS - Option Santé"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/21/2023"
+    },
+    "WEB CC"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "03/28/2024"
+    },
+    "CC GDE"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "06/18/2024"
+    },
+    {
+      "hours": "11:30",
+      "date": "06/18/2024"
+    },
+    "Seconde chance CC MALG (1h30 + tiers-temps)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/18/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "06/18/2024"
+    },
+    "1CC PRGC (1h30 + tiers-temps) seconde chance"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "07/05/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "07/05/2024"
+    },
+    "CT Développement Logiciel seconde session"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "06/17/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "06/17/2024"
+    },
+    "rattrapage MAG CT (1h30 + 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/27/2023"
+    },
+    "CC MODA"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "05/03/2024"
+    },
+    "CC de substitution - Chimie 2 - Thermochimie/cinétique (tiers temps compris)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/17/2024"
+    },
+    {
+      "hours": "15:00",
+      "date": "06/17/2024"
+    },
+    "rattrapage BMO CC 1h + tiers-temps"
+  ]
+]

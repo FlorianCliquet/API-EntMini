@@ -1,0 +1,8230 @@
+[
+  [
+    {
+      "hours": "15:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/22/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/30/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/11/2023"
+    },
+    "Estimation de paramètres et optimisation TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/23/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/21/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/21/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/04/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/12/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/28/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/08/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/18/2024"
+    },
+    "MODAL-TP-Modèles aléatoires"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/24/2024"
+    },
+    "CM-S8 TP1+TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/22/2024"
+    },
+    "MODAL-TP-Modèles aléatoires"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/05/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/22/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/15/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/24/2023"
+    },
+    "MNA-TP4"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/20/2023"
+    },
+    "MNA-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/18/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/02/2024"
+    },
+    "MOCF - Calcul Formel"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/11/2023"
+    },
+    "Estimation de paramètres et optimisation TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/01/2024"
+    },
+    "MODAL-TP-Modèles aléatoires"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/21/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/07/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/14/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/30/2023"
+    },
+    "ALGB-TP-Algèbre de base Mag"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/04/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/21/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/05/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    "MNA-TP4"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/12/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/17/2023"
+    },
+    "MNA-TP3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/19/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/25/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/22/2023"
+    },
+    "PCM-TP2-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/18/2023"
+    },
+    "Estimation de paramètres et optimisation TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "ALGB-TP-Algèbre de base Mag"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/15/2023"
+    },
+    "MNA-TP4"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/08/2023"
+    },
+    "MNA-TP3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/30/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/30/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/03/2023"
+    },
+    "ALGB-TP Cryp"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/21/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/29/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/28/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/27/2023"
+    },
+    "MNA-TP4"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/29/2023"
+    },
+    "MNA-TP3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/14/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/23/2023"
+    },
+    "MNA-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/15/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/20/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/13/2024"
+    },
+    "ANAV-TP2-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/23/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/18/2023"
+    },
+    "PCM-TP2-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/11/2024"
+    },
+    "MODA1-TD-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/09/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/09/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/19/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/19/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/07/2024"
+    },
+    "RNDP CC substitution"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/16/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/11/2023"
+    },
+    "MNA-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/04/2024"
+    },
+    "MODA1-TD-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/07/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/30/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/28/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/20/2023"
+    },
+    "MNA-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/18/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/22/2023"
+    },
+    "ACO-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/24/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/02/2023"
+    },
+    "MNA-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/01/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/20/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/11/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/26/2024"
+    },
+    "PMA-TP1-Probabilités et martingales"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/26/2024"
+    },
+    "PMA-TP1-Probabilités et martingales"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/01/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/03/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/25/2023"
+    },
+    "ACO-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/13/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/19/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/12/2024"
+    },
+    "CM/TD Mécanique pour le Spatial"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/02/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/06/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/18/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/12/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/01/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/21/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/01/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/15/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/25/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/16/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/22/2024"
+    },
+    "MODA1-TD-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/18/2023"
+    },
+    "Estimation de paramètres et optimisation TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/14/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/05/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/15/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/09/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/30/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/17/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/15/2024"
+    },
+    "MODA1-TD-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/16/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/24/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/02/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/10/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/04/2024"
+    },
+    "ACGA-TP2-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/18/2024"
+    },
+    "MOPS J AM S2- Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/19/2023"
+    },
+    "MOCF - Calcul Formel"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/11/2024"
+    },
+    "MOPS J AM S2- Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/20/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/15/2024"
+    },
+    "Théorie Algo des Nombres pour la Crypto TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/20/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/02/2024"
+    },
+    "ACGA-TP2-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/27/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/08/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/19/2024"
+    },
+    "Codes correcteurs en cryptographie TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/13/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/14/2024"
+    },
+    "ACGA-TP2-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/28/2023"
+    },
+    "Numérique du transport"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/29/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/06/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "ACGA-TP2-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/13/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/04/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/01/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/15/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/29/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/28/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/22/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/21/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/26/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/04/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/29/2023"
+    },
+    "ACO-TP1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/10/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/22/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/12/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/17/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/15/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/08/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/28/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/15/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/08/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/19/2023"
+    },
+    "Pratique Logiciels EF TP-CC"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/06/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/15/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/06/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/05/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/20/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "14:45",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "15:30",
+      "date": "12/19/2023"
+    },
+    "OPTIM CC Tiers-temps"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/07/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/12/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/29/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/17/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/19/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/19/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/01/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/29/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/22/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/22/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/13/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "ALGB-TP Cryp"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/11/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/05/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/15/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/15/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/26/2023"
+    },
+    "Maths for Security CM/TP G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "Maths for Security CM/TP G2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/03/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/15/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/22/2023"
+    },
+    "ACO-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "Réseaux euclidiens pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/07/2023"
+    },
+    "ALGB-TP Cryp"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/26/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/22/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/23/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/15/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "12/15/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/17/2024"
+    },
+    "CRYPC-TP-Compléments en cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/18/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/29/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/13/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/13/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/11/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/08/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/15/2023"
+    },
+    "DYNS-CC-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/08/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/22/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/15/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/20/2023"
+    },
+    "PSC-CM- Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/04/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/15/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/09/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/04/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/25/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/11/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/16/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/20/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/20/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/23/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/13/2024"
+    },
+    "Codes correcteurs en cryptographie TP"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/07/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/09/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/18/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/02/2024"
+    },
+    "MODAL-TP-Modèles aléatoires"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/09/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/08/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/15/2023"
+    },
+    "MENU-CC-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/19/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/18/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/29/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/12/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/16/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/19/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/11/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/05/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/08/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/30/2024"
+    },
+    "ACGA-TP1-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/06/2023"
+    },
+    "Phénomènes de Propagation TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/15/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/13/2023"
+    },
+    "MNA-TP6"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/29/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/15/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/15/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/15/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/05/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/07/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/12/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/29/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/16/2023"
+    },
+    "MNA-TP6"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/12/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/05/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/04/2023"
+    },
+    "MNA-TP6"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/02/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/19/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/22/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/21/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/15/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/28/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/09/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/16/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/23/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/16/2024"
+    },
+    "OI-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/25/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/16/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/23/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/25/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/09/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/15/2024"
+    },
+    "OI-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/23/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/03/2024"
+    },
+    "ELFI-TD-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/19/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/16/2024"
+    },
+    "ANAV - TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/16/2024"
+    },
+    "ANAV - TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/10/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/15/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/15/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/22/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/22/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/11/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/04/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/13/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/26/2024"
+    },
+    "ANAV-TP2-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/08/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/08/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/27/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "MENU-TP-Méthodes Num"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/07/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/07/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/21/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/21/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/12/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/19/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/19/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/05/2023"
+    },
+    "PCM-TP2-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/09/2024"
+    },
+    "ANAV-TP2-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/14/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/14/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/14/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/12/2024"
+    },
+    "CM/TD Mécanique pour le Spatial"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/21/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/04/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/11/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/11/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/04/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/18/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/18/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/18/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/08/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/26/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/01/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/01/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/02/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/25/2023"
+    },
+    "MNA-TP6"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/25/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/25/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/29/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/26/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/18/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/19/2024"
+    },
+    "RNDP-TP-Mod Sim Num de Phénomènes Physiques"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/14/2024"
+    },
+    "Réduction de modèles méca des fluides TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/12/2024"
+    },
+    "ACGA-TP1-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/11/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/07/2024"
+    },
+    "Réduction de modèles méca des fluides TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/28/2024"
+    },
+    {
+      "hours": "15:15",
+      "date": "05/28/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/05/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/31/2024"
+    },
+    "Réduction de modèles méca des fluides TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/11/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/04/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/02/2024"
+    },
+    "ACGA-TP1-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/21/2024"
+    },
+    "Réduction de modèles méca des fluides TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/08/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/21/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/21/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/15/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/02/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/15/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/07/2023"
+    },
+    "PSC-CM- Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/14/2024"
+    },
+    "CM-S8 TP1+TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/16/2024"
+    },
+    "ACGA-TP1-Algebre comm. et géom."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/15/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/04/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/04/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/22/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/28/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/28/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/26/2024"
+    },
+    "Codes correcteurs en cryptographie TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/31/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/02/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/25/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "05/03/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/18/2024"
+    },
+    "ISD-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/27/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "Programmation parallèle et sur GPU-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/04/2023"
+    },
+    "PCM-TP1-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/11/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/11/2024"
+    },
+    "APST-TP-Apprentissage statistique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/14/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/02/2023"
+    },
+    "ACO-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/29/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/22/2023"
+    },
+    "DYNS-CM-Phéno. Transf. Therm."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/22/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/27/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/18/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/11/2023"
+    },
+    "PCM-TP1-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/04/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/06/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/26/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/12/2023"
+    },
+    "Numérique du transport"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/11/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/05/2024"
+    },
+    "PPAR TP 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/18/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/14/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/18/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/20/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/26/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/04/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/30/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/16/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/08/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/09/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/06/2023"
+    },
+    "IPI-TP2-GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/09/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/08/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/17/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/17/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/21/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/13/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/20/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/09/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/09/2024"
+    },
+    "Théorie Algo des Nombres pour la Crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/01/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/27/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/29/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/11/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/07/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/08/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "MOCS - Calcul Scientifque"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/25/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/18/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/09/2024"
+    },
+    "MOPS AM S2 - Propabilités et statistiques S2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/29/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/18/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/18/2024"
+    },
+    "CRYPC-TP-Compléments en cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/25/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/20/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/29/2023"
+    },
+    "ACO-TP3"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/05/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/22/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/22/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/12/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/03/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/02/2023"
+    },
+    "I3A-TP1 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/02/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/09/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/09/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/30/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/30/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/07/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/07/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/14/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/14/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/11/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/17/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/10/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/03/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/20/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/27/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/22/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/15/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/15/2023"
+    },
+    "PCM-TP1-Probabilités et Chaines de Markov"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/19/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/27/2024"
+    },
+    {
+      "hours": "16:15",
+      "date": "05/27/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/27/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/29/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/08/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/09/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/28/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/28/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/21/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/12/2024"
+    },
+    "PPAR TP 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/04/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/05/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/24/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/23/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/11/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/21/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/21/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/30/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/23/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/17/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/12/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/12/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/12/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/19/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/12/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/10/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/19/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/27/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/16/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/20/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/20/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/13/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/13/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/27/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/27/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/20/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/24/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/18/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "13:00",
+      "date": "12/18/2023"
+    },
+    {
+      "hours": "15:00",
+      "date": "12/18/2023"
+    },
+    "Prog Objet C++ compléments TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/23/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/13/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/15/2024"
+    },
+    "OI-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/09/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/19/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/19/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/07/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/14/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/14/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/23/2024"
+    },
+    "IMIA-TP2a"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/16/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/03/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/26/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/28/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/08/2023"
+    },
+    "STMA Beaulieu-TP2-Stat. math."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/12/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/19/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/10/2024"
+    },
+    "EDP-TD-Equations aux DP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/10/2024"
+    },
+    "EDP-TD-Equations aux DP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/26/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/15/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/12/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "STMA Beaulieu-TP2-Stat. math."
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/17/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/23/2023"
+    },
+    "AED1-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/11/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/29/2023"
+    },
+    "DYNS-TP-Phéno. Transf. Therm. (CSM)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/05/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/05/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/10/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "AED1-TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/05/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/06/2023"
+    },
+    "STMA Beaulieu-TP2-Stat. math."
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/25/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/06/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/23/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/13/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/14/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "AED1-TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/21/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/14/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/08/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/13/2023"
+    },
+    "AED1-TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/27/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/13/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/28/2023"
+    },
+    "OPS-TP Crypto-Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/25/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/08/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/26/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/12/2023"
+    },
+    "I3A-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/21/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "AED1-TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/19/2024"
+    },
+    "OI-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/21/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/10/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/09/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/09/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/16/2024"
+    },
+    "MOCS - Calcul Scientifque S2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "04/15/2024"
+    },
+    "CRYPC-TP-Compléments en cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/17/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/12/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/04/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/16/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/19/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/11/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/11/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/11/2024"
+    },
+    "CRYPC-TP-Compléments en cryptographie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/27/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/02/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/23/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/23/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/13/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/24/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "05/23/2024"
+    },
+    "MEF-S8-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/24/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/12/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/21/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/25/2023"
+    },
+    "I3A-TP1 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/17/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/16/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "01/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "01/15/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/15/2024"
+    },
+    "OI-TP2 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/15/2024"
+    },
+    "OI-TP4 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/04/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/29/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/07/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/21/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/14/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "11:45",
+      "date": "04/29/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/06/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/29/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/05/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/10/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/10/2023"
+    },
+    "ACO-TP1-TP2-TP3"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/15/2024"
+    },
+    "IMIA-TP3a"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/16/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/16/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/25/2023"
+    },
+    "IPI-TP2-GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/12/2024"
+    },
+    "ANU-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/20/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/30/2023"
+    },
+    "OPS-TP-CSM Outils en proba stat"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "I3A-TP2 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/22/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/22/2024"
+    },
+    "ISD-TP1"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/13/2023"
+    },
+    "IPI-TP1-GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/23/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/01/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/20/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/16/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/31/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/12/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/21/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/21/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/13/2024"
+    },
+    "PT-CM-Projet tutoré"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/23/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/19/2024"
+    },
+    "Codes correcteurs en cryptographie CM"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "12:30",
+      "date": "02/07/2024"
+    },
+    "Modélisation en action 2 CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/24/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/24/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/26/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/12/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/08/2023"
+    },
+    "DYNS-CM-Phéno. Transf. Therm."
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/07/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/02/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/28/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "01/26/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/09/2024"
+    },
+    "OI-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/14/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/16/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/15/2024"
+    },
+    "MODA1-CM-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/19/2024"
+    },
+    "SYST-TP-Systèmes incertains"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/10/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/29/2023"
+    },
+    "STMA Beaulieu-TP1-Stat. math."
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/25/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/03/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/09/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/05/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    "PSC-TP Programmation Scientifique"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "01/31/2024"
+    },
+    "Modélisation en action 2 CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/20/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/06/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/19/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/27/2023"
+    },
+    "STMA Beaulieu-TP1-Stat. math."
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/06/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/06/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/13/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/07/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/27/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/27/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/22/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/22/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/01/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/01/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/29/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/29/2023"
+    },
+    "ALBA-TP1-Algo. base groupe 1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/13/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/03/2024"
+    },
+    "ELFI-TD-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/17/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/30/2023"
+    },
+    "I3A-TP3 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/15/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/15/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/15/2024"
+    },
+    "CM-S8 TP1+TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/04/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/04/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/11/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/28/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/21/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/15/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/01/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/08/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/18/2024"
+    },
+    "COCO-TP1-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/02/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/02/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/25/2023"
+    },
+    "STMA Beaulieu-TP1-Stat. math."
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/06/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "10:45",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "12:15",
+      "date": "01/26/2024"
+    },
+    "Modélisation en action 2 TD"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/29/2024"
+    },
+    "CM-S8 TP1+TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/03/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "05/03/2024"
+    },
+    "THNO-TP1-Théorie des nombres"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/30/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/05/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/19/2024"
+    },
+    "ANAV-TP1-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "10:00",
+      "date": "05/23/2024"
+    },
+    "MEF-S8-TP2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/23/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/13/2024"
+    },
+    "IMIA-TP1a"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/25/2024"
+    },
+    "ANU-TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/26/2023"
+    },
+    "MOPS  - Propabilités et statistiques"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/31/2024"
+    },
+    "Modélisation en action 2 CM"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/13/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/10/2023"
+    },
+    "MNA-TP5"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/09/2024"
+    },
+    "MOCF - Calcul Formel S2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/13/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/13/2024"
+    },
+    "ANAV-TP1-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/16/2024"
+    },
+    "MOCF - Calcul Formel S2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/09/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/10/2023"
+    },
+    "Courbes elliptiques pour la cryptographie TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/05/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/05/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "10/13/2023"
+    },
+    "MNA-TP5"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/02/2024"
+    },
+    "ANAV-TP1-Analyse avancée"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/16/2024"
+    },
+    "OI-TP4 GrB"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/01/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/01/2023"
+    },
+    "MNA-TP5"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "09/22/2023"
+    },
+    "MNA-TP5"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "11:00",
+      "date": "02/07/2024"
+    },
+    "Modélisation en action 2 CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/13/2023"
+    },
+    "OPTIM-TP-Optimisation"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/12/2024"
+    },
+    "MOCF - Calcul Formel S2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/27/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/15/2024"
+    },
+    "Théorie Algo des Nombres pour la Crypto TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/27/2023"
+    },
+    "MNA-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/29/2023"
+    },
+    "IPI-TP1-GrB"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/19/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/19/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/29/2024"
+    },
+    "Codes correcteurs en cryptographie TP"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/09/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/16/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/16/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/12/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/27/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/27/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/27/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/03/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/03/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/31/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/31/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/31/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/21/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/21/2024"
+    },
+    "CRYP-TP1-Cryptographie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/24/2023"
+    },
+    "Méthode des éléments finis"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/03/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/10/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/24/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/07/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/28/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/15/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/14/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/14/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/28/2023"
+    },
+    "MOCF - Calcul Formel AM S1"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/22/2024"
+    },
+    "IMIA-TP3b"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/12/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/05/2023"
+    },
+    "I3A-TP3 GrA"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/18/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/09/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/19/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/19/2023"
+    },
+    "Prog Objet C++ bases TP1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/30/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/30/2024"
+    },
+    "MOPS AM S2 - Propabilités et statistiques S2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/18/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/18/2023"
+    },
+    "MNA-TP2"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/13/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/09/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/09/2023"
+    },
+    "MNA-TP2"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/29/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "Théorie Algo des Nombres pour la Crypto TP"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/06/2023"
+    },
+    "MNA-TP2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/18/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/15/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/11/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/28/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/08/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/21/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/21/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/01/2024"
+    },
+    "COCO-TP2-Codes Correcteurs"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/02/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/20/2024"
+    },
+    "ELFI-TP-Eléments finis"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/03/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/23/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/06/2024"
+    },
+    "MOPS AM S2 - Propabilités et statistiques S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/16/2024"
+    },
+    "MOPS AM S2 - Propabilités et statistiques S2"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/23/2024"
+    },
+    "MOPS AM S2 - Propabilités et statistiques S2"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/16/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/20/2024"
+    },
+    "Calcul scientifique en action - TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/28/2023"
+    },
+    "ALGB-TP-Algèbre de base Beaulieu"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/17/2024"
+    },
+    "IMIA-TP2b"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/07/2023"
+    },
+    "ALGB-TP-Algèbre de base Beaulieu"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/06/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/06/2024"
+    },
+    "MOCF - Calcul Formel S2"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/22/2024"
+    },
+    "MODA1-TP-Modélisation en action 1"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/13/2023"
+    },
+    "Pratique Logiciels EF TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/03/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/03/2023"
+    },
+    "ALGB-TP-Algèbre de base Beaulieu"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/12/2024"
+    },
+    "Codes correcteurs en cryptographie TD"
+  ],
+  [
+    {
+      "hours": "15:15",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "17:45",
+      "date": "04/29/2024"
+    },
+    "PT-TP-Projet tutoré seuls"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/08/2024"
+    },
+    "ANU-TP3"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/23/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/23/2024"
+    },
+    "IMIA-TP1b"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "09/01/2023"
+    },
+    "Stage Logiciel TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/18/2023"
+    },
+    "Programmmation Java pour la crypto TP"
+  ]
+]

@@ -1,0 +1,717 @@
+[
+  [
+    {
+      "hours": "09:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/07/2023"
+    },
+    "Spéc2-UE8-Module 2 Monte Carlo Molecular simulations"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/17/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/20/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/03/2024"
+    },
+    "IA CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/04/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/12/2023"
+    },
+    "gestion de projet"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/12/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/12/2023"
+    },
+    "gestion de projet"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/17/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:45",
+      "date": "11/09/2023"
+    },
+    "Trombinoscope Obligatoire"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "Spéc2-UE8-Module 2 Monte Carlo Molecular simulations"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/22/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/02/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/10/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/10/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/27/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/11/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/06/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "03/20/2024"
+    },
+    "PLC TD"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/11/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/11/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/05/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/20/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/22/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/15/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/26/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/05/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/27/2023"
+    },
+    "RESA-S7-CM M.Abdennebi"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/27/2023"
+    },
+    "RESA-S7-CM M.Abdennebi"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/01/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/10/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/26/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/26/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/14/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/14/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "03/22/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "03/22/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/15/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "11/23/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/07/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/23/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/23/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "03/04/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "03/04/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "12/12/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/03/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/08/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/25/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/25/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/23/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/09/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/18/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/20/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/20/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/19/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/14/2024"
+    },
+    "PLC CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/27/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "11:30",
+      "date": "11/28/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "11/28/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "08:15",
+      "date": "01/17/2024"
+    },
+    {
+      "hours": "09:45",
+      "date": "01/17/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/24/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "18:15",
+      "date": "10/27/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/10/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/22/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/07/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "01/16/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "01/16/2024"
+    },
+    "1b - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "01/25/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "01/25/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/22/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/22/2024"
+    },
+    "1a - PR travail en équipe (jan-avr)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "12/12/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "12/12/2023"
+    },
+    "IBD CM"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "CM RANT"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/07/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/07/2024"
+    },
+    "PLC CM"
+  ]
+]

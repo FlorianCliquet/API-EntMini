@@ -1,0 +1,123 @@
+[
+  [
+    {
+      "hours": "09:45",
+      "date": "10/10/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/10/2023"
+    },
+    "conférence \"blockchains\" Amphi D T. Allard/université Californie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/17/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/17/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/17/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/17/2023"
+    },
+    "conférence \"Failures and Crash Fault-tolerance\" Amphi D T. Allard/université Californie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/22/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/22/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/20/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/20/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/03/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/03/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/10/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "04/10/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/21/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/21/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/13/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "03/13/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/15/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/15/2024"
+    },
+    "PTR TP"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/14/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "02/14/2024"
+    },
+    "PTR TP"
+  ]
+]

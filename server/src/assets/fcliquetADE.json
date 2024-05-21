@@ -1,0 +1,2702 @@
+[
+  {
+    "start": "2024-03-15T14:00:00.000Z",
+    "end": "2024-03-15T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-10-05T09:30:00.000Z",
+    "end": "2023-10-05T11:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-22T07:00:00.000Z",
+    "end": "2024-03-22T08:30:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-09-06T07:45:00.000Z",
+    "end": "2023-09-06T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-01-11T12:15:00.000Z",
+    "end": "2024-01-11T14:15:00.000Z",
+    "title": "THER-S3-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2023-10-20T07:45:00.000Z",
+    "end": "2023-10-20T09:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-15T13:00:00.000Z",
+    "end": "2023-09-15T14:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-02-20T07:00:00.000Z",
+    "end": "2024-02-20T08:30:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-05-22T06:00:00.000Z",
+    "end": "2024-05-22T07:30:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-23T13:00:00.000Z",
+    "end": "2024-05-23T14:30:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-26T07:00:00.000Z",
+    "end": "2024-03-26T08:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-10-04T14:45:00.000Z",
+    "end": "2023-10-04T16:15:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-06T13:00:00.000Z",
+    "end": "2024-05-06T14:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2024-01-18T15:45:00.000Z",
+    "end": "2024-01-18T17:15:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-02-16T14:00:00.000Z",
+    "end": "2024-02-16T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-11-24T12:15:00.000Z",
+    "end": "2023-11-24T13:45:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-03-22T15:45:00.000Z",
+    "end": "2024-03-22T17:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-25T14:00:00.000Z",
+    "end": "2024-01-25T15:30:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-11T12:15:00.000Z",
+    "end": "2023-12-11T13:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-05-22T07:45:00.000Z",
+    "end": "2024-05-22T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-03-27T07:00:00.000Z",
+    "end": "2024-03-27T08:30:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-22T07:00:00.000Z",
+    "end": "2023-12-22T08:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-02-06T09:15:00.000Z",
+    "end": "2024-02-06T10:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-09-20T11:15:00.000Z",
+    "end": "2023-09-20T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-02-21T14:00:00.000Z",
+    "end": "2024-02-21T15:30:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-02-05T07:30:00.000Z",
+    "end": "2024-02-05T11:30:00.000Z",
+    "title": "INORGA-S4-TPa-TPb",
+    "summary": "B07 - 945"
+  },
+  {
+    "start": "2024-04-18T07:15:00.000Z",
+    "end": "2024-04-18T09:15:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E005 TP Windows (005) -24"
+  },
+  {
+    "start": "2024-03-29T14:00:00.000Z",
+    "end": "2024-03-29T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B02A - 203"
+  },
+  {
+    "start": "2023-12-21T12:15:00.000Z",
+    "end": "2023-12-21T14:15:00.000Z",
+    "title": "MATHS-S3-CC",
+    "summary": "Parking 4 - Salle modulaire 3"
+  },
+  {
+    "start": "2024-04-29T07:15:00.000Z",
+    "end": "2024-04-29T09:15:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E214 TP Windows (214) -24"
+  },
+  {
+    "start": "2023-10-16T07:45:00.000Z",
+    "end": "2023-10-16T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-13T11:15:00.000Z",
+    "end": "2023-10-13T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B02A - 203"
+  },
+  {
+    "start": "2024-04-29T14:45:00.000Z",
+    "end": "2024-04-29T16:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-04-16T14:45:00.000Z",
+    "end": "2024-04-16T16:15:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-15T07:45:00.000Z",
+    "end": "2024-05-15T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-03-14T14:00:00.000Z",
+    "end": "2024-03-14T15:30:00.000Z",
+    "title": "PHYS2-S4-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-20T14:00:00.000Z",
+    "end": "2024-02-20T17:00:00.000Z",
+    "title": "présentation des spécialités",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-03-26T15:45:00.000Z",
+    "end": "2024-03-26T17:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-13T11:15:00.000Z",
+    "end": "2023-09-13T12:45:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-08T09:30:00.000Z",
+    "end": "2023-09-08T11:00:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-13T06:00:00.000Z",
+    "end": "2023-09-13T07:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-04-19T11:15:00.000Z",
+    "end": "2024-04-19T12:45:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-04-04T06:00:00.000Z",
+    "end": "2024-04-04T07:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-17T07:45:00.000Z",
+    "end": "2024-04-17T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-16T07:45:00.000Z",
+    "end": "2024-04-16T09:15:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2023-12-04T12:15:00.000Z",
+    "end": "2023-12-04T13:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-09-28T09:30:00.000Z",
+    "end": "2023-09-28T11:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-25T07:45:00.000Z",
+    "end": "2023-10-25T09:15:00.000Z",
+    "title": "ORGA-S3-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-27T07:00:00.000Z",
+    "end": "2023-11-27T08:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-02-22T10:30:00.000Z",
+    "end": "2024-02-22T12:00:00.000Z",
+    "title": "BDD -IHM-S4-CC",
+    "summary": "Parking 4 - Salle modulaire 1"
+  },
+  {
+    "start": "2024-02-02T12:15:00.000Z",
+    "end": "2024-02-02T14:15:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E214 TP Windows (214) -24"
+  },
+  {
+    "start": "2024-05-17T07:45:00.000Z",
+    "end": "2024-05-17T09:15:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-02-09T14:00:00.000Z",
+    "end": "2024-02-09T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-10-06T11:15:00.000Z",
+    "end": "2023-10-06T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-01-11T15:45:00.000Z",
+    "end": "2024-01-11T17:15:00.000Z",
+    "title": "ALGO-S3 épreuve de substitution",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-01-17T15:45:00.000Z",
+    "end": "2024-01-17T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-12T15:45:00.000Z",
+    "end": "2024-03-12T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-16T09:15:00.000Z",
+    "end": "2024-01-16T10:30:00.000Z",
+    "title": "THER-S3-CC",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-05-06T14:45:00.000Z",
+    "end": "2024-05-06T16:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-09T08:45:00.000Z",
+    "end": "2023-11-09T10:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-04T15:45:00.000Z",
+    "end": "2023-12-04T17:45:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E212 TP Windows (212) -24"
+  },
+  {
+    "start": "2024-05-23T10:45:00.000Z",
+    "end": "2024-05-23T12:45:00.000Z",
+    "title": "ANG- épreuves de substitution anglais ESIR1-ESIR2-CUPGE1-CUPGE2",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-06T06:00:00.000Z",
+    "end": "2023-09-06T07:30:00.000Z",
+    "title": "ELECa-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-25T08:45:00.000Z",
+    "end": "2024-01-25T10:15:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-29T07:45:00.000Z",
+    "end": "2023-09-29T09:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-01-10T14:00:00.000Z",
+    "end": "2024-01-10T16:00:00.000Z",
+    "title": "THER-S3-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2023-10-26T11:15:00.000Z",
+    "end": "2023-10-26T13:15:00.000Z",
+    "title": "ALGO-S3-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-15T11:15:00.000Z",
+    "end": "2024-05-15T12:45:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2023-11-29T07:00:00.000Z",
+    "end": "2023-11-29T08:30:00.000Z",
+    "title": "ORGA-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-12-12T08:45:00.000Z",
+    "end": "2023-12-12T10:15:00.000Z",
+    "title": "ORGA-S3-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-28T08:45:00.000Z",
+    "end": "2023-11-28T10:15:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-11-15T12:15:00.000Z",
+    "end": "2023-11-15T13:45:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-13T06:00:00.000Z",
+    "end": "2024-05-13T07:30:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-29T14:00:00.000Z",
+    "end": "2024-05-29T16:30:00.000Z",
+    "title": "PHYS2-S4-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2023-12-12T10:15:00.000Z",
+    "end": "2023-12-12T10:45:00.000Z",
+    "title": "ORGA-S3-CC (tiers-temps)",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-02T06:30:00.000Z",
+    "end": "2024-04-02T08:00:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-09-18T07:45:00.000Z",
+    "end": "2023-09-18T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-27T12:15:00.000Z",
+    "end": "2023-11-27T13:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-20T11:15:00.000Z",
+    "end": "2023-10-20T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-03T07:45:00.000Z",
+    "end": "2024-04-03T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-10-13T07:45:00.000Z",
+    "end": "2023-10-13T09:15:00.000Z",
+    "title": "ORGA-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-09-27T13:00:00.000Z",
+    "end": "2023-09-27T14:30:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  },
+  {
+    "start": "2023-12-14T08:45:00.000Z",
+    "end": "2023-12-14T10:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-12-07T12:15:00.000Z",
+    "end": "2023-12-07T13:45:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-21T14:00:00.000Z",
+    "end": "2023-11-21T15:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-10-18T06:00:00.000Z",
+    "end": "2023-10-18T07:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-10T08:15:00.000Z",
+    "end": "2024-04-10T10:15:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-03-27T08:45:00.000Z",
+    "end": "2024-03-27T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-04-03T11:15:00.000Z",
+    "end": "2024-04-03T12:45:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2023-10-17T11:15:00.000Z",
+    "end": "2023-10-17T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-04-08T11:15:00.000Z",
+    "end": "2024-04-08T12:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-09-28T07:45:00.000Z",
+    "end": "2023-09-28T09:00:00.000Z",
+    "title": "présentation modules d'ouverture",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-15T07:45:00.000Z",
+    "end": "2023-09-15T09:15:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-02-05T14:00:00.000Z",
+    "end": "2024-02-05T15:30:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2024-04-09T11:15:00.000Z",
+    "end": "2024-04-09T12:45:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2024-04-19T14:45:00.000Z",
+    "end": "2024-04-19T16:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-12-18T07:00:00.000Z",
+    "end": "2023-12-18T08:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-03-15T15:45:00.000Z",
+    "end": "2024-03-15T17:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-03-19T08:45:00.000Z",
+    "end": "2024-03-19T10:15:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-11-15T15:45:00.000Z",
+    "end": "2023-11-15T17:15:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-02-12T07:30:00.000Z",
+    "end": "2024-02-12T11:30:00.000Z",
+    "title": "INORGA-S4-TPa-TPb",
+    "summary": "B07 - 945"
+  },
+  {
+    "start": "2024-01-08T12:00:00.000Z",
+    "end": "2024-01-08T14:00:00.000Z",
+    "title": "ANG- épreuves de substitution anglais ESIR1-ESIR2-CUPGE1-CUPGE2",
+    "summary": "B02A - 202"
+  },
+  {
+    "start": "2024-02-15T08:45:00.000Z",
+    "end": "2024-02-15T10:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-11-20T12:15:00.000Z",
+    "end": "2023-11-20T13:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-09-25T07:45:00.000Z",
+    "end": "2023-09-25T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-25T13:00:00.000Z",
+    "end": "2023-09-25T14:30:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-03-20T08:45:00.000Z",
+    "end": "2024-03-20T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-22T12:15:00.000Z",
+    "end": "2023-11-22T13:45:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-09-12T14:45:00.000Z",
+    "end": "2023-09-12T16:15:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-02-19T07:30:00.000Z",
+    "end": "2024-02-19T11:30:00.000Z",
+    "title": "INORGA-S4-TPa-TPb",
+    "summary": "B07 - 945"
+  },
+  {
+    "start": "2023-09-26T11:15:00.000Z",
+    "end": "2023-09-26T12:45:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-21T13:00:00.000Z",
+    "end": "2024-05-21T14:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-04-17T06:00:00.000Z",
+    "end": "2024-04-17T07:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-01-26T08:45:00.000Z",
+    "end": "2024-01-26T10:15:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-04-04T11:15:00.000Z",
+    "end": "2024-04-04T12:45:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-10T11:15:00.000Z",
+    "end": "2023-10-10T12:45:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-24T14:45:00.000Z",
+    "end": "2024-05-24T16:15:00.000Z",
+    "title": "MATHS-S4-CC",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-04-08T14:45:00.000Z",
+    "end": "2024-04-08T16:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-10T12:15:00.000Z",
+    "end": "2023-11-10T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2023-12-08T07:00:00.000Z",
+    "end": "2023-12-08T11:00:00.000Z",
+    "title": "ORGA-S3-TP gr1-gr2",
+    "summary": "B31 - 025"
+  },
+  {
+    "start": "2024-05-16T06:00:00.000Z",
+    "end": "2024-05-16T07:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-01-08T08:45:00.000Z",
+    "end": "2024-01-08T11:45:00.000Z",
+    "title": "MECA-S3-TP gr1",
+    "summary": "B16 - 002,B16 - 001"
+  },
+  {
+    "start": "2023-11-21T12:15:00.000Z",
+    "end": "2023-11-21T13:45:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-10T08:45:00.000Z",
+    "end": "2023-11-10T10:15:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-12-13T15:45:00.000Z",
+    "end": "2023-12-13T17:15:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-20T12:15:00.000Z",
+    "end": "2024-03-20T13:45:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-02-08T10:30:00.000Z",
+    "end": "2024-02-08T12:00:00.000Z",
+    "title": "MECA-S4-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-20T07:45:00.000Z",
+    "end": "2023-09-20T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-30T08:45:00.000Z",
+    "end": "2023-11-30T10:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-12-19T12:15:00.000Z",
+    "end": "2023-12-19T13:45:00.000Z",
+    "title": "MECA-S3-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-02T07:00:00.000Z",
+    "end": "2024-02-02T08:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-03-19T12:15:00.000Z",
+    "end": "2024-03-19T13:45:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-12T07:45:00.000Z",
+    "end": "2024-04-12T09:15:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-04-30T07:45:00.000Z",
+    "end": "2024-04-30T09:15:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2023-11-17T07:00:00.000Z",
+    "end": "2023-11-17T08:30:00.000Z",
+    "title": "ELECn-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-03-11T14:00:00.000Z",
+    "end": "2024-03-11T15:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-14T14:45:00.000Z",
+    "end": "2024-05-14T16:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-07T12:15:00.000Z",
+    "end": "2023-11-07T13:45:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-12T14:45:00.000Z",
+    "end": "2024-04-12T15:45:00.000Z",
+    "title": "MATHS-S4-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-15T14:00:00.000Z",
+    "end": "2024-02-15T15:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-01-18T12:15:00.000Z",
+    "end": "2024-01-18T15:15:00.000Z",
+    "title": "MECA-S3-TP gr1",
+    "summary": "B16 - 002,B16 - 001"
+  },
+  {
+    "start": "2024-03-19T15:45:00.000Z",
+    "end": "2024-03-19T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-13T07:45:00.000Z",
+    "end": "2023-09-13T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-11-21T08:45:00.000Z",
+    "end": "2023-11-21T10:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-14T12:15:00.000Z",
+    "end": "2024-02-14T13:45:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-01-11T07:00:00.000Z",
+    "end": "2024-01-11T10:00:00.000Z",
+    "title": "MECA-S3-TP gr1",
+    "summary": "B16 - 002,B16 - 001"
+  },
+  {
+    "start": "2024-01-29T12:15:00.000Z",
+    "end": "2024-01-29T13:45:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-04-15T11:15:00.000Z",
+    "end": "2024-04-15T12:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-11-24T07:00:00.000Z",
+    "end": "2023-11-24T11:00:00.000Z",
+    "title": "ORGA-S3-TP gr1-gr2",
+    "summary": "B31 - 025"
+  },
+  {
+    "start": "2024-02-02T09:45:00.000Z",
+    "end": "2024-02-02T11:15:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-04T14:45:00.000Z",
+    "end": "2024-04-04T16:15:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2023-11-07T14:00:00.000Z",
+    "end": "2023-11-07T15:30:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-04T14:00:00.000Z",
+    "end": "2023-12-04T15:30:00.000Z",
+    "title": "ELECn-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-01-29T14:00:00.000Z",
+    "end": "2024-01-29T15:30:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-29T06:00:00.000Z",
+    "end": "2023-09-29T07:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-09-19T11:15:00.000Z",
+    "end": "2023-09-19T12:45:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-20T15:00:00.000Z",
+    "end": "2023-12-20T17:00:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E003 TP Windows (003) -24"
+  },
+  {
+    "start": "2024-01-09T07:00:00.000Z",
+    "end": "2024-01-09T09:00:00.000Z",
+    "title": "THER-S3-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2023-12-20T08:45:00.000Z",
+    "end": "2023-12-20T11:45:00.000Z",
+    "title": "ANG-S3-S4-CLES blanc cupge2",
+    "summary": "B42 - Amphi M (002),B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-08T08:45:00.000Z",
+    "end": "2024-02-08T10:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-09-05T12:00:00.000Z",
+    "end": "2023-09-05T14:00:00.000Z",
+    "title": "rentrée CUPGE2",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-13T07:00:00.000Z",
+    "end": "2023-12-13T08:30:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B02A - Amphi C (Yves Coppens) (109)"
+  },
+  {
+    "start": "2023-09-14T09:30:00.000Z",
+    "end": "2023-09-14T11:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-07T08:45:00.000Z",
+    "end": "2023-12-07T10:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-02T08:15:00.000Z",
+    "end": "2024-04-02T10:15:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-10-25T13:00:00.000Z",
+    "end": "2023-10-25T14:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-20T06:00:00.000Z",
+    "end": "2023-09-20T07:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-01-23T14:00:00.000Z",
+    "end": "2024-01-23T15:30:00.000Z",
+    "title": "MECA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-25T15:45:00.000Z",
+    "end": "2024-03-25T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-19T07:45:00.000Z",
+    "end": "2024-04-19T09:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-03-21T16:15:00.000Z",
+    "end": "2024-03-21T17:45:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-16T13:00:00.000Z",
+    "end": "2024-04-16T14:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-23T14:00:00.000Z",
+    "end": "2023-11-23T15:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B02A - Amphi A (René Dabard) (115)"
+  },
+  {
+    "start": "2024-03-11T08:45:00.000Z",
+    "end": "2024-03-11T10:15:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-09T08:15:00.000Z",
+    "end": "2024-04-09T09:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-27T13:00:00.000Z",
+    "end": "2023-10-27T14:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B02A - 204"
+  },
+  {
+    "start": "2023-09-21T09:30:00.000Z",
+    "end": "2023-09-21T11:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-21T14:45:00.000Z",
+    "end": "2024-05-21T16:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-04T06:00:00.000Z",
+    "end": "2023-10-04T07:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-02-13T12:15:00.000Z",
+    "end": "2024-02-13T13:45:00.000Z",
+    "title": "MECA-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-12-18T08:45:00.000Z",
+    "end": "2023-12-18T09:45:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-06T11:15:00.000Z",
+    "end": "2023-09-06T12:45:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-19T12:15:00.000Z",
+    "end": "2024-01-19T13:45:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-07T09:30:00.000Z",
+    "end": "2024-05-07T11:00:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-17T14:00:00.000Z",
+    "end": "2023-11-17T15:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-04-04T13:00:00.000Z",
+    "end": "2024-04-04T14:30:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-05-07T14:45:00.000Z",
+    "end": "2024-05-07T16:15:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-04-11T13:00:00.000Z",
+    "end": "2024-04-11T14:30:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-30T07:00:00.000Z",
+    "end": "2023-11-30T08:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-09-27T06:00:00.000Z",
+    "end": "2023-09-27T07:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-11-24T15:45:00.000Z",
+    "end": "2023-11-24T17:15:00.000Z",
+    "title": "ELECn-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-28T13:00:00.000Z",
+    "end": "2023-09-28T14:30:00.000Z",
+    "title": "ORGA-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-12-18T12:15:00.000Z",
+    "end": "2023-12-18T13:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-04-05T07:45:00.000Z",
+    "end": "2024-04-05T09:15:00.000Z",
+    "title": "MECA-S4-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-11T07:45:00.000Z",
+    "end": "2024-04-11T09:15:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-10T15:15:00.000Z",
+    "end": "2024-04-10T16:45:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-15T14:45:00.000Z",
+    "end": "2024-04-15T16:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-09T13:00:00.000Z",
+    "end": "2023-10-09T14:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-05-17T13:30:00.000Z",
+    "end": "2024-05-17T15:30:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E003 TP Windows (003) -24"
+  },
+  {
+    "start": "2023-11-22T15:45:00.000Z",
+    "end": "2023-11-22T17:15:00.000Z",
+    "title": "MECA-S3-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-01T07:00:00.000Z",
+    "end": "2023-12-01T11:00:00.000Z",
+    "title": "ORGA-S3-TP gr1-gr2",
+    "summary": "B31 - 025"
+  },
+  {
+    "start": "2024-02-13T14:00:00.000Z",
+    "end": "2024-02-13T15:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B28 - Amphi K (Victor Basch) (106)"
+  },
+  {
+    "start": "2024-03-29T12:15:00.000Z",
+    "end": "2024-03-29T13:45:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-03T09:30:00.000Z",
+    "end": "2023-10-03T11:00:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-13T11:15:00.000Z",
+    "end": "2024-05-13T12:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-24T14:45:00.000Z",
+    "end": "2023-10-24T16:15:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-18T14:00:00.000Z",
+    "end": "2023-12-18T15:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-25T11:15:00.000Z",
+    "end": "2023-10-25T12:45:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-14T11:45:00.000Z",
+    "end": "2023-12-14T13:45:00.000Z",
+    "title": "ALGO-S3-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-08T15:45:00.000Z",
+    "end": "2023-11-08T17:15:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-10-17T06:00:00.000Z",
+    "end": "2023-10-17T07:30:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B02A - 202"
+  },
+  {
+    "start": "2024-01-16T07:00:00.000Z",
+    "end": "2024-01-16T08:30:00.000Z",
+    "title": "MATH-S3 épreuve de substitution",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-03-15T07:00:00.000Z",
+    "end": "2024-03-15T08:00:00.000Z",
+    "title": "PHYS1-S4-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-05T07:45:00.000Z",
+    "end": "2023-10-05T09:15:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-10-16T13:00:00.000Z",
+    "end": "2023-10-16T14:30:00.000Z",
+    "title": "ELECa-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-10-23T14:45:00.000Z",
+    "end": "2023-10-23T16:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-16T11:15:00.000Z",
+    "end": "2023-10-16T12:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-09-27T11:15:00.000Z",
+    "end": "2023-09-27T12:45:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-22T07:00:00.000Z",
+    "end": "2023-11-22T08:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B02 - Amphi C (008)"
+  },
+  {
+    "start": "2023-09-15T11:15:00.000Z",
+    "end": "2023-09-15T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-03-27T12:15:00.000Z",
+    "end": "2024-03-27T13:45:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-26T14:45:00.000Z",
+    "end": "2023-09-26T16:15:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-17T07:00:00.000Z",
+    "end": "2024-01-17T08:30:00.000Z",
+    "title": "Bilan semestriel CUPGE enseignements S3",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-27T11:15:00.000Z",
+    "end": "2023-10-27T12:15:00.000Z",
+    "title": "MATHS-S3-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-02T14:45:00.000Z",
+    "end": "2024-04-02T16:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-13T13:00:00.000Z",
+    "end": "2024-05-13T15:30:00.000Z",
+    "title": "PHYS2-S4-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2024-04-17T11:15:00.000Z",
+    "end": "2024-04-17T12:45:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-29T09:30:00.000Z",
+    "end": "2024-04-29T11:00:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-02T06:30:00.000Z",
+    "end": "2024-05-02T10:30:00.000Z",
+    "title": "OUV MAT-S4-TP EXP",
+    "summary": "B07 - 954"
+  },
+  {
+    "start": "2024-05-28T06:00:00.000Z",
+    "end": "2024-05-28T07:30:00.000Z",
+    "title": "Bilan semestriel CUPGE enseignements S4",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-02-22T14:00:00.000Z",
+    "end": "2024-02-22T15:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-01-10T12:15:00.000Z",
+    "end": "2024-01-10T13:45:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-05-29T07:45:00.000Z",
+    "end": "2024-05-29T10:45:00.000Z",
+    "title": "ANG-S3-S4-TOIEC blanc cupge2",
+    "summary": "B42 - Amphi N (003),B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-17T13:00:00.000Z",
+    "end": "2023-10-17T14:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B02A - Amphi B (Maryam Mirzakhani) (112)"
+  },
+  {
+    "start": "2023-10-26T13:30:00.000Z",
+    "end": "2023-10-26T15:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-23T08:45:00.000Z",
+    "end": "2024-01-23T10:45:00.000Z",
+    "title": "COM-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-12-06T08:45:00.000Z",
+    "end": "2023-12-06T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-09T14:00:00.000Z",
+    "end": "2023-11-09T15:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-06T08:45:00.000Z",
+    "end": "2023-11-06T10:15:00.000Z",
+    "title": "ALGO-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-11-23T12:15:00.000Z",
+    "end": "2023-11-23T13:45:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-24T14:00:00.000Z",
+    "end": "2024-01-24T15:30:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-04-11T06:00:00.000Z",
+    "end": "2024-04-11T07:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-10-27T07:45:00.000Z",
+    "end": "2023-10-27T09:15:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-09T14:00:00.000Z",
+    "end": "2024-01-09T17:00:00.000Z",
+    "title": "MECA-S3-TP gr1",
+    "summary": "B16 - 002,B16 - 001"
+  },
+  {
+    "start": "2024-03-14T07:00:00.000Z",
+    "end": "2024-03-14T08:30:00.000Z",
+    "title": "MECA-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-11-29T08:45:00.000Z",
+    "end": "2023-11-29T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-02-06T12:15:00.000Z",
+    "end": "2024-02-06T13:45:00.000Z",
+    "title": "MECA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-21T08:45:00.000Z",
+    "end": "2024-03-21T10:15:00.000Z",
+    "title": "MECA-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-10-03T07:45:00.000Z",
+    "end": "2023-10-03T09:15:00.000Z",
+    "title": "ELECa-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-27T06:00:00.000Z",
+    "end": "2024-05-27T07:30:00.000Z",
+    "title": "PHYS2-S4-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-12T06:00:00.000Z",
+    "end": "2024-04-12T07:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-01-22T12:15:00.000Z",
+    "end": "2024-01-22T13:45:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-12-11T07:00:00.000Z",
+    "end": "2023-12-11T08:30:00.000Z",
+    "title": "ELECn-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-01-25T10:30:00.000Z",
+    "end": "2024-01-25T12:00:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-12T11:15:00.000Z",
+    "end": "2023-09-12T12:45:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-08T12:15:00.000Z",
+    "end": "2023-12-08T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B02A - 204"
+  },
+  {
+    "start": "2023-12-13T12:15:00.000Z",
+    "end": "2023-12-13T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-05T11:15:00.000Z",
+    "end": "2024-04-05T12:45:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-19T07:45:00.000Z",
+    "end": "2023-09-19T09:15:00.000Z",
+    "title": "ELECa-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-11-22T08:45:00.000Z",
+    "end": "2023-11-22T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-02-06T07:00:00.000Z",
+    "end": "2024-02-06T09:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-01-24T07:00:00.000Z",
+    "end": "2024-01-24T08:30:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B12D - Amphi P (001) -200"
+  },
+  {
+    "start": "2024-03-13T14:00:00.000Z",
+    "end": "2024-03-13T15:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-09T10:30:00.000Z",
+    "end": "2024-01-09T12:00:00.000Z",
+    "title": "ORGA-S3 épreuve de substitution",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-01-15T15:45:00.000Z",
+    "end": "2024-01-15T17:15:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-06T06:00:00.000Z",
+    "end": "2023-10-06T07:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-27T08:45:00.000Z",
+    "end": "2023-11-27T10:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-05T08:45:00.000Z",
+    "end": "2023-12-05T10:15:00.000Z",
+    "title": "MECA-S3-TD GR A",
+    "summary": "B02A - 204"
+  },
+  {
+    "start": "2024-05-23T06:30:00.000Z",
+    "end": "2024-05-23T09:00:00.000Z",
+    "title": "PHYS2-S4-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2023-11-14T12:15:00.000Z",
+    "end": "2023-11-14T15:15:00.000Z",
+    "title": "ELECn-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-22T11:15:00.000Z",
+    "end": "2024-05-22T15:15:00.000Z",
+    "title": "OUV MAT-S4-TP CC restitution",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-02-19T14:00:00.000Z",
+    "end": "2024-02-19T15:30:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-03-26T08:45:00.000Z",
+    "end": "2024-03-26T10:45:00.000Z",
+    "title": "COM-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2023-11-15T08:45:00.000Z",
+    "end": "2023-11-15T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-01-30T07:00:00.000Z",
+    "end": "2024-01-30T09:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-10-02T11:15:00.000Z",
+    "end": "2023-10-02T12:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-05-23T14:45:00.000Z",
+    "end": "2024-05-23T16:15:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-09-26T07:45:00.000Z",
+    "end": "2023-09-26T09:15:00.000Z",
+    "title": "ELECa-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-12T06:00:00.000Z",
+    "end": "2023-10-12T07:30:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-16T12:15:00.000Z",
+    "end": "2024-01-16T13:45:00.000Z",
+    "title": "MECA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-02T11:30:00.000Z",
+    "end": "2024-05-02T15:30:00.000Z",
+    "title": "OUV MAT-S4-TP EXP",
+    "summary": "B07 - 954"
+  },
+  {
+    "start": "2024-02-19T15:45:00.000Z",
+    "end": "2024-02-19T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-09T06:00:00.000Z",
+    "end": "2024-04-09T08:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-12-11T08:45:00.000Z",
+    "end": "2023-12-11T10:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-14T12:15:00.000Z",
+    "end": "2024-03-14T13:45:00.000Z",
+    "title": "BDD -IHM-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-09T09:15:00.000Z",
+    "end": "2024-02-09T11:15:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E107 TP Windows (107) -24"
+  },
+  {
+    "start": "2024-03-18T12:15:00.000Z",
+    "end": "2024-03-18T13:45:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-12T12:15:00.000Z",
+    "end": "2023-12-12T13:45:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-12T07:45:00.000Z",
+    "end": "2023-09-12T09:15:00.000Z",
+    "title": "ELECa-S3-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-05-07T12:00:00.000Z",
+    "end": "2024-05-07T14:30:00.000Z",
+    "title": "PHYS2-S4-TP gr1",
+    "summary": "B30 - 039"
+  },
+  {
+    "start": "2024-02-07T07:00:00.000Z",
+    "end": "2024-02-07T08:30:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-05T15:45:00.000Z",
+    "end": "2024-02-05T17:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-02-21T12:15:00.000Z",
+    "end": "2024-02-21T13:45:00.000Z",
+    "title": "MECA-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-03-22T14:00:00.000Z",
+    "end": "2024-03-22T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A et TD GR B",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-10-06T07:45:00.000Z",
+    "end": "2023-10-06T08:45:00.000Z",
+    "title": "THER-S3-CC",
+    "summary": "Parking 4 - Salle modulaire 1"
+  },
+  {
+    "start": "2023-10-18T07:45:00.000Z",
+    "end": "2023-10-18T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-10-19T09:30:00.000Z",
+    "end": "2023-10-19T11:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-15T07:00:00.000Z",
+    "end": "2023-11-15T08:30:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-12-04T08:45:00.000Z",
+    "end": "2023-12-04T10:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-29T11:00:00.000Z",
+    "end": "2023-11-29T20:15:00.000Z",
+    "title": "My alumni Day/IDESIR",
+    "summary": "B41 - 001,B41 - 104 priorité LV (Linux),B42 - Amphi N (003),B42 - Hall des amphis (0C1),B41 - 002,B42 - Amphi L (001),B42 - Amphi M (002),B41 - 101 priorité LV (Linux),B41 - 003,B41 - 004,B41 - 102,B41 - 103"
+  },
+  {
+    "start": "2024-02-07T14:00:00.000Z",
+    "end": "2024-02-07T15:30:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-05-06T09:30:00.000Z",
+    "end": "2024-05-06T11:00:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-12-14T07:00:00.000Z",
+    "end": "2023-12-14T08:30:00.000Z",
+    "title": "THER-S3-CC",
+    "summary": "Parking 4 - Salle modulaire 2"
+  },
+  {
+    "start": "2024-04-10T13:00:00.000Z",
+    "end": "2024-04-10T15:00:00.000Z",
+    "title": "OUV MAT-S4-TP GRANTA",
+    "summary": "B07 - Bio Info SPM&SVE (914)"
+  },
+  {
+    "start": "2023-12-15T12:15:00.000Z",
+    "end": "2023-12-15T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-10-11T07:45:00.000Z",
+    "end": "2023-10-11T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-01-19T07:00:00.000Z",
+    "end": "2024-01-19T08:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-03-28T14:30:00.000Z",
+    "end": "2024-03-28T16:30:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E107 TP Windows (107) -24"
+  },
+  {
+    "start": "2023-12-11T14:15:00.000Z",
+    "end": "2023-12-11T16:15:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E005 TP Windows (005) -24"
+  },
+  {
+    "start": "2024-05-14T06:00:00.000Z",
+    "end": "2024-05-14T08:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-11-17T12:15:00.000Z",
+    "end": "2023-11-17T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-05-03T14:45:00.000Z",
+    "end": "2024-05-03T16:15:00.000Z",
+    "title": "PHYS2-S4-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-14T15:45:00.000Z",
+    "end": "2024-03-14T17:45:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E212 TP Windows (212) -24"
+  },
+  {
+    "start": "2023-11-08T12:15:00.000Z",
+    "end": "2023-11-08T13:45:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-29T07:00:00.000Z",
+    "end": "2024-03-29T08:30:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B02A - 202"
+  },
+  {
+    "start": "2023-10-04T07:45:00.000Z",
+    "end": "2023-10-04T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-05-21T11:15:00.000Z",
+    "end": "2024-05-21T12:45:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-02-08T14:00:00.000Z",
+    "end": "2024-02-08T15:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-10-05T13:00:00.000Z",
+    "end": "2023-10-05T14:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-24T14:00:00.000Z",
+    "end": "2023-11-24T15:30:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-14T06:00:00.000Z",
+    "end": "2023-09-14T07:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-16T14:00:00.000Z",
+    "end": "2023-11-16T15:30:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-09T10:30:00.000Z",
+    "end": "2023-11-09T12:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-05T13:00:00.000Z",
+    "end": "2024-04-05T14:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2023-09-18T11:15:00.000Z",
+    "end": "2023-09-18T12:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-27T06:00:00.000Z",
+    "end": "2023-10-27T07:30:00.000Z",
+    "title": "ORGA-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-03-28T07:00:00.000Z",
+    "end": "2024-03-28T08:30:00.000Z",
+    "title": "MECA-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-17T13:00:00.000Z",
+    "end": "2024-04-17T15:00:00.000Z",
+    "title": "OUV MAT-S4-TP GRANTA",
+    "summary": "B07 - Bio Info SPM&SVE (914)"
+  },
+  {
+    "start": "2023-09-12T13:00:00.000Z",
+    "end": "2023-09-12T14:30:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-02-13T07:00:00.000Z",
+    "end": "2024-02-13T09:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-10-09T07:45:00.000Z",
+    "end": "2023-10-09T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-07T11:15:00.000Z",
+    "end": "2023-09-07T12:45:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-17T15:45:00.000Z",
+    "end": "2023-11-17T17:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-12-15T14:00:00.000Z",
+    "end": "2023-12-15T16:00:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E107 TP Windows (107) -24"
+  },
+  {
+    "start": "2023-09-27T07:45:00.000Z",
+    "end": "2023-09-27T09:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-03-20T07:00:00.000Z",
+    "end": "2024-03-20T08:30:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-21T15:45:00.000Z",
+    "end": "2024-02-21T17:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-12-06T12:15:00.000Z",
+    "end": "2023-12-06T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-05-21T06:00:00.000Z",
+    "end": "2024-05-21T09:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-02-12T15:45:00.000Z",
+    "end": "2024-02-12T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-12T07:45:00.000Z",
+    "end": "2023-10-12T09:15:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-12T09:30:00.000Z",
+    "end": "2023-10-12T11:00:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B02A - 203"
+  },
+  {
+    "start": "2024-03-28T08:45:00.000Z",
+    "end": "2024-03-28T10:15:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-06T06:00:00.000Z",
+    "end": "2024-05-06T07:30:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2024-03-13T08:45:00.000Z",
+    "end": "2024-03-13T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-10-24T10:30:00.000Z",
+    "end": "2023-10-24T11:00:00.000Z",
+    "title": "Elections représentants étudiants conseil d'école",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-03-12T07:00:00.000Z",
+    "end": "2024-03-12T10:00:00.000Z",
+    "title": "COM-S4-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-03-12T12:15:00.000Z",
+    "end": "2024-03-12T13:45:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-11T11:15:00.000Z",
+    "end": "2023-09-11T12:45:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-09-21T07:45:00.000Z",
+    "end": "2023-09-21T09:15:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-08T07:00:00.000Z",
+    "end": "2024-01-08T08:30:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-11-09T15:45:00.000Z",
+    "end": "2023-11-09T17:15:00.000Z",
+    "title": "ALGO-S3-TP gr1",
+    "summary": "B02B - E103 TP Linux (103) -24"
+  },
+  {
+    "start": "2024-04-15T07:45:00.000Z",
+    "end": "2024-04-15T09:15:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-12-12T07:00:00.000Z",
+    "end": "2023-12-12T08:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-29T13:00:00.000Z",
+    "end": "2024-04-29T14:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-11-14T15:45:00.000Z",
+    "end": "2023-11-14T17:15:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-11T11:15:00.000Z",
+    "end": "2024-04-11T12:45:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B02A - 202"
+  },
+  {
+    "start": "2023-11-16T07:00:00.000Z",
+    "end": "2023-11-16T08:30:00.000Z",
+    "title": "ORGA-S3-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-11-16T10:30:00.000Z",
+    "end": "2023-11-16T12:00:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-12-05T07:00:00.000Z",
+    "end": "2023-12-05T08:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-19T14:00:00.000Z",
+    "end": "2024-01-19T15:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-18T08:45:00.000Z",
+    "end": "2024-03-18T10:15:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-15T14:45:00.000Z",
+    "end": "2024-05-15T16:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-30T13:00:00.000Z",
+    "end": "2024-04-30T14:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-02-21T08:45:00.000Z",
+    "end": "2024-02-21T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-03-21T12:15:00.000Z",
+    "end": "2024-03-21T13:45:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-05-13T07:45:00.000Z",
+    "end": "2024-05-13T09:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-11-21T15:45:00.000Z",
+    "end": "2023-11-21T17:15:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2023-10-26T07:45:00.000Z",
+    "end": "2023-10-26T09:15:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-02-22T15:45:00.000Z",
+    "end": "2024-02-22T17:15:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-10-03T13:00:00.000Z",
+    "end": "2023-10-03T14:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-11T07:45:00.000Z",
+    "end": "2023-09-11T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-25T08:45:00.000Z",
+    "end": "2024-03-25T10:15:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-04-02T13:00:00.000Z",
+    "end": "2024-04-02T14:30:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-02-14T08:45:00.000Z",
+    "end": "2024-02-14T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-04-30T14:45:00.000Z",
+    "end": "2024-04-30T16:45:00.000Z",
+    "title": "PHYS1-S4-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-01T14:00:00.000Z",
+    "end": "2023-12-01T15:30:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-10-11T11:15:00.000Z",
+    "end": "2023-10-11T12:45:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-10-19T12:00:00.000Z",
+    "end": "2023-10-19T16:00:00.000Z",
+    "title": "ELECa-S3-TP gr1-gr2",
+    "summary": "B06 - Elec L1 et L2 (013)"
+  },
+  {
+    "start": "2023-11-07T15:45:00.000Z",
+    "end": "2023-11-07T17:15:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-04-03T13:00:00.000Z",
+    "end": "2024-04-03T15:00:00.000Z",
+    "title": "OUV MAT-S4-TP GRANTA",
+    "summary": "B07 - Bio Info SPM&SVE (914)"
+  },
+  {
+    "start": "2023-09-20T13:00:00.000Z",
+    "end": "2023-09-20T14:30:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-21T13:00:00.000Z",
+    "end": "2023-09-21T14:30:00.000Z",
+    "title": "ORGA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-05-17T06:00:00.000Z",
+    "end": "2024-05-17T07:30:00.000Z",
+    "title": "MATHS-S4-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-30T11:45:00.000Z",
+    "end": "2023-11-30T13:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-13T15:45:00.000Z",
+    "end": "2024-02-13T17:15:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-26T12:15:00.000Z",
+    "end": "2024-03-26T13:45:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-30T09:30:00.000Z",
+    "end": "2024-04-30T11:00:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-02-20T10:30:00.000Z",
+    "end": "2024-02-20T12:00:00.000Z",
+    "title": "PHYS1-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-10T06:00:00.000Z",
+    "end": "2024-04-10T08:00:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-02-14T07:00:00.000Z",
+    "end": "2024-02-14T08:30:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-13T12:15:00.000Z",
+    "end": "2024-03-13T13:45:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-11-07T08:45:00.000Z",
+    "end": "2023-11-07T10:15:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B02A - 203"
+  },
+  {
+    "start": "2024-04-02T11:15:00.000Z",
+    "end": "2024-04-02T12:45:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-08T08:45:00.000Z",
+    "end": "2023-11-08T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-03-21T07:00:00.000Z",
+    "end": "2024-03-21T08:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-03-14T08:45:00.000Z",
+    "end": "2024-03-14T10:15:00.000Z",
+    "title": "INORGA-S4-CC",
+    "summary": "B02A - Amphi D (106)"
+  },
+  {
+    "start": "2024-04-08T07:45:00.000Z",
+    "end": "2024-04-08T09:15:00.000Z",
+    "title": "MATHS-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-09-22T11:15:00.000Z",
+    "end": "2023-09-22T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2023-12-06T15:45:00.000Z",
+    "end": "2023-12-06T17:45:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E005 TP Windows (005) -24"
+  },
+  {
+    "start": "2023-09-26T13:00:00.000Z",
+    "end": "2023-09-26T14:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-02-23T14:00:00.000Z",
+    "end": "2024-02-23T15:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-01-31T08:45:00.000Z",
+    "end": "2024-01-31T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-01-23T12:15:00.000Z",
+    "end": "2024-01-23T13:45:00.000Z",
+    "title": "ELEC-S3 épreuve de substitution",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-03-21T14:00:00.000Z",
+    "end": "2024-03-21T16:00:00.000Z",
+    "title": "MATHS-S4-TP gr1",
+    "summary": "B02B - E107 TP Windows (107) -24"
+  },
+  {
+    "start": "2024-01-29T08:45:00.000Z",
+    "end": "2024-01-29T10:15:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-17T08:45:00.000Z",
+    "end": "2024-01-17T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-02-12T14:00:00.000Z",
+    "end": "2024-02-12T15:30:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2023-10-10T06:00:00.000Z",
+    "end": "2023-10-10T10:00:00.000Z",
+    "title": "ELECa-S3-TP gr1-gr2",
+    "summary": "B06 - Elec L1 et L2 (013)"
+  },
+  {
+    "start": "2024-02-15T12:15:00.000Z",
+    "end": "2024-02-15T13:45:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-16T07:45:00.000Z",
+    "end": "2024-05-16T09:45:00.000Z",
+    "title": "INORGA-S4-CC",
+    "summary": "B28 - Amphi J (105)"
+  },
+  {
+    "start": "2024-04-30T06:00:00.000Z",
+    "end": "2024-04-30T07:30:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2024-03-15T10:30:00.000Z",
+    "end": "2024-03-15T12:00:00.000Z",
+    "title": "BDD -IHM-S4-TD GR A",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-01-31T15:45:00.000Z",
+    "end": "2024-01-31T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-03-18T14:00:00.000Z",
+    "end": "2024-03-18T15:30:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (011)"
+  },
+  {
+    "start": "2023-10-03T14:45:00.000Z",
+    "end": "2023-10-03T16:15:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2024-02-01T10:30:00.000Z",
+    "end": "2024-02-01T12:00:00.000Z",
+    "title": "PHYS1-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-03-25T10:30:00.000Z",
+    "end": "2024-03-25T12:00:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-11-27T14:15:00.000Z",
+    "end": "2023-11-27T16:15:00.000Z",
+    "title": "ELECn-S3-TP gr1",
+    "summary": "B02B - E007 TP Windows (007) -24"
+  },
+  {
+    "start": "2024-02-06T15:45:00.000Z",
+    "end": "2024-02-06T17:15:00.000Z",
+    "title": "PHYS2-S4-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2023-11-28T12:15:00.000Z",
+    "end": "2023-11-28T13:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2023-10-02T07:45:00.000Z",
+    "end": "2023-10-02T09:15:00.000Z",
+    "title": "MATH-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-22T08:45:00.000Z",
+    "end": "2024-01-22T10:15:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi L (001)"
+  },
+  {
+    "start": "2024-01-10T08:45:00.000Z",
+    "end": "2024-01-10T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-09-22T07:45:00.000Z",
+    "end": "2023-09-22T09:15:00.000Z",
+    "title": "THER-S3-TD GR A",
+    "summary": "B41 - 101 priorité LV (Linux)"
+  },
+  {
+    "start": "2024-05-28T11:15:00.000Z",
+    "end": "2024-05-28T16:15:00.000Z",
+    "title": "épreuve de substitution fin de semestre CUPGE1 et CUPGE2",
+    "summary": "B41 - 104 priorité LV (Linux),B41 - 102"
+  },
+  {
+    "start": "2024-05-15T13:00:00.000Z",
+    "end": "2024-05-15T14:30:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2024-05-24T06:00:00.000Z",
+    "end": "2024-05-24T07:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2023-09-19T13:00:00.000Z",
+    "end": "2023-09-19T14:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-03-20T14:00:00.000Z",
+    "end": "2024-03-20T15:30:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-11-17T08:45:00.000Z",
+    "end": "2023-11-17T10:15:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 102"
+  },
+  {
+    "start": "2024-04-16T09:30:00.000Z",
+    "end": "2024-04-16T11:00:00.000Z",
+    "title": "BDD -IHM-S4-TP gr1",
+    "summary": "B40 - Linux ISTIC/ESIR (013)"
+  },
+  {
+    "start": "2024-04-19T13:00:00.000Z",
+    "end": "2024-04-19T14:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2023-10-24T11:15:00.000Z",
+    "end": "2023-10-24T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-05-03T09:30:00.000Z",
+    "end": "2024-05-03T11:00:00.000Z",
+    "title": "MATHS-S4-TD GR A",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2024-04-04T07:45:00.000Z",
+    "end": "2024-04-04T09:15:00.000Z",
+    "title": "OUV MAT-S4-CM",
+    "summary": "B41 - 003"
+  },
+  {
+    "start": "2024-04-03T06:00:00.000Z",
+    "end": "2024-04-03T07:30:00.000Z",
+    "title": "INORGA-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-13T08:45:00.000Z",
+    "end": "2023-12-13T10:45:00.000Z",
+    "title": "ANG-S3-S4-TD G1",
+    "summary": "B41 - 002"
+  },
+  {
+    "start": "2023-11-28T07:00:00.000Z",
+    "end": "2023-11-28T08:30:00.000Z",
+    "title": "MECA-S3-CM",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-04-16T06:00:00.000Z",
+    "end": "2024-04-16T07:30:00.000Z",
+    "title": "MECA-S4-TP gr1",
+    "summary": "B06 - Info-Physique (927)"
+  },
+  {
+    "start": "2023-11-08T07:00:00.000Z",
+    "end": "2023-11-08T08:00:00.000Z",
+    "title": "ELECa-S3-CC",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-01-12T12:15:00.000Z",
+    "end": "2024-01-12T13:15:00.000Z",
+    "title": "ELECn-S3-CC",
+    "summary": "B42 - Amphi M (002)"
+  },
+  {
+    "start": "2024-01-23T15:45:00.000Z",
+    "end": "2024-01-23T17:15:00.000Z",
+    "title": "THER-S3 épreuve de substitution",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-04-05T06:00:00.000Z",
+    "end": "2024-04-05T07:30:00.000Z",
+    "title": "PHYS2-S4-TD GR A",
+    "summary": "B41 - 103"
+  },
+  {
+    "start": "2024-01-30T12:15:00.000Z",
+    "end": "2024-01-30T13:45:00.000Z",
+    "title": "MECA-S4-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2024-05-03T13:00:00.000Z",
+    "end": "2024-05-03T14:30:00.000Z",
+    "title": "INORGA-S4-TD GR A",
+    "summary": "B41 - 004"
+  },
+  {
+    "start": "2023-12-06T07:00:00.000Z",
+    "end": "2023-12-06T08:30:00.000Z",
+    "title": "THER-S3-CM",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-12-01T12:15:00.000Z",
+    "end": "2023-12-01T13:45:00.000Z",
+    "title": "ALGO-S3-TD GR A",
+    "summary": "B41 - 001"
+  },
+  {
+    "start": "2024-04-11T10:00:00.000Z",
+    "end": "2024-04-11T10:45:00.000Z",
+    "title": "THALES Présentation",
+    "summary": "B42 - Amphi N (003)"
+  },
+  {
+    "start": "2023-09-29T11:15:00.000Z",
+    "end": "2023-09-29T12:45:00.000Z",
+    "title": "MATH-S1-TD GR A",
+    "summary": "B41 - 104 priorité LV (Linux)"
+  }
+]

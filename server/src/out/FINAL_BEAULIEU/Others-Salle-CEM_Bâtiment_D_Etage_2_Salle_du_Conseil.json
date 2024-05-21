@@ -1,0 +1,68 @@
+[
+  [
+    {
+      "hours": "08:45",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "10:15",
+      "date": "11/10/2023"
+    },
+    "Consignes de stage"
+  ],
+  [
+    {
+      "hours": "14:30",
+      "date": "11/27/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "11/27/2023"
+    },
+    "TP Echographie Doppler (Rolland) GrB"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "02/05/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "02/05/2024"
+    },
+    "RPTH-S9-TP"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "11/17/2023"
+    },
+    "CM/TD Radiobiologie: X Ehaute radioth externe\\, proton\\, C2+\\, radiobiologie de la Curie (Benchalal)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "12/01/2023"
+    },
+    "CM/TD Radiobiologie: X Ehaute radioth externe\\, proton\\, C2+\\, radiobiologie de la Curie (Benchalal)"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "11/10/2023"
+    },
+    "TP Logiciel ImageJ (Barateau) Villejean - CEM"
+  ]
+]

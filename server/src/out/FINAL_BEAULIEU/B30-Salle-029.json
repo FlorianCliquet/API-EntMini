@@ -1,0 +1,2004 @@
+[
+  [
+    {
+      "hours": "09:45",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "11:45",
+      "date": "12/14/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/08/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "15:30",
+      "date": "05/13/2024"
+    },
+    "CC TP PHYSIQUE (UE1-EC3) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "04/11/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/01/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/06/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/22/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/24/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "12/08/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/20/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "10/27/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/29/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "11/10/2023"
+    },
+    "UE1 - Leçon Physique - PRESENTATION"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/07/2023"
+    },
+    "UE3 - Séminaire de Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/21/2023"
+    },
+    "UE3 - Séminaire de Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/05/2023"
+    },
+    "UE3 - Séminaire de Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/26/2023"
+    },
+    "UE3 - Séminaire de Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/03/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "06/17/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "06/17/2024"
+    },
+    "SESSION 2 - CC Physique (UE1) - semestre 8"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/08/2023"
+    },
+    "CM phys (2h)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "09/15/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "10/13/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "10/13/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "11/17/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/25/2023"
+    },
+    "CC - UE03 Electromagnétisme (Durée TT inclus)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/22/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/22/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/11/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/01/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/26/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/07/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/21/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/21/2023"
+    },
+    "CC TP CHIMIE (UE1-EC3)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/05/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/19/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/28/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/16/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/30/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/14/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/23/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/09/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/09/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/09/2023"
+    },
+    "CC1 PHYSIQUE (UE1-EC1) (Durée 1H\\, et 1H20 pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/19/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "06/19/2024"
+    },
+    "SESSION 2 - CC TP Physique et TP Chimie (UE1) - semestre 8"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/18/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "06/18/2024"
+    },
+    "SESSION 2 - CC TP Physique et TP Chimie (UE1) - semestre 7"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/11/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/11/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/08/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/08/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/29/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/15/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/15/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/13/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/13/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "05/02/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "10/18/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "10/18/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/20/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/01/2023"
+    },
+    "CC Epistémologie (UE1-EC5) (Durée 1H\\, et 1H20 pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/21/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/21/2023"
+    },
+    "CC TP PHYSIQUE (UE1-EC3) (Durée 1H30\\, et 2H pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/17/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/31/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/31/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "10:15",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "12:15",
+      "date": "12/22/2023"
+    },
+    "CC2 PHYSIQUE (UE1-EC2) (Durée 1H30\\, et 2H pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/17/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "06/17/2024"
+    },
+    "SESSION 2 - CC Chimie (UE1) - semestre 8"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/07/2023"
+    },
+    "UE1 - Physique (CM/TD) - Supp'"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "05/02/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/28/2024"
+    },
+    "CC1 CHIMIE (UE1-EC2) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/18/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/11/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "05/02/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/19/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "06/07/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "06/07/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/03/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/16/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/24/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/19/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/12/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/12/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "02/02/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "01/26/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "02/09/2024"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "12/06/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "12/06/2023"
+    },
+    "CM Electromagnétisme"
+  ],
+  [
+    {
+      "hours": "15:45",
+      "date": "05/13/2024"
+    },
+    {
+      "hours": "17:15",
+      "date": "05/13/2024"
+    },
+    "CC TP CHIMIE (UE1-EC3) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/16/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/15/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "11/30/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "11/30/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "05/31/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/31/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "16:45",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "01/11/2024"
+    },
+    "UE3 - Séminaire Chimie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/19/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "17:00",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "18:30",
+      "date": "09/15/2023"
+    },
+    "UE3 - Séminaire de Chimie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/17/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/27/2023"
+    },
+    "UE3 - Séminaire de Chimie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/27/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "10/06/2023"
+    },
+    "UE3 - Séminaire de Chimie"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "09:30",
+      "date": "02/01/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/06/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "09/08/2023"
+    },
+    "UE3 - Séminaire de Chimie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/29/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "06/07/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "06/07/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "10/20/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/22/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/08/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/16/2023"
+    },
+    "CC Séminaire Physique (UE3-EC2) (Durée 1H\\, et 1H20 pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "04/19/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "04/19/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "10:00",
+      "date": "06/21/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "06/21/2024"
+    },
+    "SESSION 2 - CC Physique (UE1) - semestre 7"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "05/24/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "05/24/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/14/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/23/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/23/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "11/16/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "11/16/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "04/05/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/21/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/21/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "12/07/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/05/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/05/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/28/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/19/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/19/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "10/26/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/14/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/14/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/07/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/07/2023"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "03/29/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "01/11/2024"
+    },
+    "UE3 - Séminaire Chimie"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "02/16/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/08/2024"
+    },
+    "UE3 - Séminaire Chimie"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "09/01/2023"
+    },
+    "UE1 - Incertitudes de mesures (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "02/15/2024"
+    },
+    "UE3 - Séminaire Chimie"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "04/12/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/10/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/09/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "11:15",
+      "date": "05/03/2024"
+    },
+    {
+      "hours": "12:45",
+      "date": "05/03/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "02/02/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/12/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/12/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "11/17/2023"
+    },
+    {
+      "hours": "16:30",
+      "date": "11/17/2023"
+    },
+    "CC Séminaire de Chimie (UE3-EC2) (Durée 1H\\, et 1H20 pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "01/26/2024"
+    },
+    {
+      "hours": "12:00",
+      "date": "01/26/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "05/16/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "05/16/2024"
+    },
+    "CC2 PHYSIQUE (UE1-EC1) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "12/22/2023"
+    },
+    {
+      "hours": "16:00",
+      "date": "12/22/2023"
+    },
+    "CC2 CHIMIE (UE1-EC2) (Durée 1H30\\, et 2H pour étudiant 1/3 temps)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "01/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "01/11/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/15/2023"
+    },
+    "UE1 - Physique (CM/TD) - En autonomie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/04/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/10/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "09/15/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "09/15/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/01/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "11/24/2023"
+    },
+    "UE1 - Epistémologie"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "04/11/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/16/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/16/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/29/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/02/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/02/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/09/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/09/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "01/12/2024"
+    },
+    "UE3 - Séminaire Physique"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "10:30",
+      "date": "02/23/2024"
+    },
+    "UE1 - Physique (CM)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/08/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "02/23/2024"
+    },
+    {
+      "hours": "13:00",
+      "date": "02/23/2024"
+    },
+    "UE1 - Chimie (CM)"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "05/02/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "05/02/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/18/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/18/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:30",
+      "date": "09/01/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/01/2023"
+    },
+    "Réunion spécifique de Rentrée M1 MEEF PC"
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "11:15",
+      "date": "02/15/2024"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/08/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "12/01/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "12/01/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "10/27/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/20/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "10/20/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "10/06/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "10/06/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/22/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "09/22/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/24/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "11/24/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "09/29/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "11/10/2023"
+    },
+    {
+      "hours": "10:30",
+      "date": "11/10/2023"
+    },
+    "UE1 - Leçon Physique - PREPARATION"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/04/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "10/02/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "10/02/2023"
+    },
+    "UE1 - TP Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/04/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/04/2023"
+    },
+    "UE1 - TP Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "09/25/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "09/25/2023"
+    },
+    "UE1 - TP Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/06/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/06/2023"
+    },
+    "UE1 - TP Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "11/13/2023"
+    },
+    {
+      "hours": "17:00",
+      "date": "11/13/2023"
+    },
+    "UE1 - TP Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "03/29/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "03/29/2024"
+    },
+    "UE3 - Séminaire Chimie"
+  ],
+  [
+    {
+      "hours": "16:15",
+      "date": "04/09/2024"
+    },
+    {
+      "hours": "18:15",
+      "date": "04/09/2024"
+    },
+    "CM phys (2h)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/11/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/11/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/08/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/08/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/01/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/01/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "10:30",
+      "date": "12/15/2023"
+    },
+    {
+      "hours": "13:00",
+      "date": "12/15/2023"
+    },
+    "UE1 - Chimie (CM/TD) - En autonomie"
+  ],
+  [
+    {
+      "hours": "15:30",
+      "date": "01/12/2024"
+    },
+    {
+      "hours": "17:30",
+      "date": "01/12/2024"
+    },
+    "UE3 - Soutenance Mini-colloques"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "03/28/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "03/28/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "02/15/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "02/15/2024"
+    },
+    "UE1 - Physique (CM/TD)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "12/08/2023"
+    },
+    {
+      "hours": "14:45",
+      "date": "12/08/2023"
+    },
+    "UE1 - Chimie (CM/TD)"
+  ],
+  [
+    {
+      "hours": "15:00",
+      "date": "04/04/2024"
+    },
+    {
+      "hours": "16:30",
+      "date": "04/04/2024"
+    },
+    "CC Séminaire Chimie (UE3-EC2) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "13:15",
+      "date": "04/05/2024"
+    },
+    {
+      "hours": "14:45",
+      "date": "04/05/2024"
+    },
+    "CC Séminaire Physique (UE3-EC2) (Durée CC 1/3 temps inclus)"
+  ],
+  [
+    {
+      "hours": "16:30",
+      "date": "05/17/2024"
+    },
+    {
+      "hours": "18:00",
+      "date": "05/17/2024"
+    },
+    "UE1 - Leçon Physique - CORRECTION"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/29/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "01/29/2024"
+    },
+    "UE1 - TP  Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "06/21/2024"
+    },
+    {
+      "hours": "16:00",
+      "date": "06/21/2024"
+    },
+    "SESSION 2 - CC Chimie (UE1) - semestre 7"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "02/19/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "02/19/2024"
+    },
+    "UE1 - TP  Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/29/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/29/2024"
+    },
+    "UE1 - TP  Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "01/08/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "01/08/2024"
+    },
+    "UE1 - TP  Physique (Gr1)"
+  ],
+  [
+    {
+      "hours": "14:00",
+      "date": "04/08/2024"
+    },
+    {
+      "hours": "17:00",
+      "date": "04/08/2024"
+    },
+    "UE1 - TP  Physique (Gr1)"
+  ]
+]

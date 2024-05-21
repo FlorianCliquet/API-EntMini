@@ -1,0 +1,35 @@
+[
+  [
+    {
+      "hours": "10:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "11:00",
+      "date": "09/20/2023"
+    },
+    "Jeu de piste - \"Dispositif \"Résoudre\" (groupe 2 : F-L))"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "10:00",
+      "date": "09/20/2023"
+    },
+    "Jeu de piste - Dispositif \"Résoudre\" (groupe 1: A-E)"
+  ],
+  [
+    {
+      "hours": "11:00",
+      "date": "09/20/2023"
+    },
+    {
+      "hours": "12:00",
+      "date": "09/20/2023"
+    },
+    "Jeu de piste - Dispositif \"Résoudre\" (groupe 3 : M-Z))"
+  ]
+]

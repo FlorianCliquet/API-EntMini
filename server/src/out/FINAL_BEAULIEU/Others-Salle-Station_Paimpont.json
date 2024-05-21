@@ -1,0 +1,156 @@
+[
+  [
+    {
+      "hours": "08:00",
+      "date": "10/25/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/25/2023"
+    },
+    "Stage \"Approche intégrée de terrain\""
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/27/2023"
+    },
+    "Stage Station biologique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/27/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "09/27/2023"
+    },
+    "UC1.2 & 1.4 Lien Habitat & Biodiversité"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/24/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/24/2023"
+    },
+    "Stage \"Approche intégrée de terrain\""
+  ],
+  [
+    {
+      "hours": "09:45",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "11:15",
+      "date": "09/29/2023"
+    },
+    "UC2.2 Statistiques univariées"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/27/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/27/2023"
+    },
+    "Stage \"Approche intégrée de terrain\""
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/29/2023"
+    },
+    "Stage Station biologique"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/26/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/26/2023"
+    },
+    "Stage Station biologique"
+  ],
+  [
+    {
+      "hours": "09:00",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "09/28/2023"
+    },
+    "Stage Station biologique"
+  ],
+  [
+    {
+      "hours": "13:30",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "16:45",
+      "date": "09/29/2023"
+    },
+    "UC4.5 Communication et Gestion de projet"
+  ],
+  [
+    {
+      "hours": "08:30",
+      "date": "09/28/2023"
+    },
+    {
+      "hours": "17:30",
+      "date": "09/28/2023"
+    },
+    "UC1.4 Journée présentation du Diagnostic IBIS"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "09/29/2023"
+    },
+    {
+      "hours": "09:30",
+      "date": "09/29/2023"
+    },
+    "UC2.2 Statistiques univariées"
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/23/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/23/2023"
+    },
+    "Stage \"Approche intégrée de terrain\""
+  ],
+  [
+    {
+      "hours": "08:00",
+      "date": "10/26/2023"
+    },
+    {
+      "hours": "18:00",
+      "date": "10/26/2023"
+    },
+    "Stage \"Approche intégrée de terrain\""
+  ]
+]
