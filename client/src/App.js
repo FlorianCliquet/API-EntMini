@@ -14,7 +14,7 @@ function App() {
         async function fetchDataset() {
             try {
                 // Fetch dataset from the backend
-                const response = await fetch('/test2');
+                const response = await fetch('/api/salleslibres');
                 const data = await response.json();
 
                 // Initialize object to group events by building and room

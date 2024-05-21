@@ -40,10 +40,10 @@ const Calendar = () => {
 
  /* Map the backend data to the event list */
  const eventList = backendData.map((event, index) => ({
-    title: event.summary,
-    start: event.startDate,
-    end: event.endDate,
-    location: event.location,
+    title: event.title,
+    start: event.start,
+    end: event.end,
+    location: event.summary,
     id: index.toString(),
  }));
 
